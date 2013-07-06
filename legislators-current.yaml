@@ -1225,6 +1225,7 @@
     cspan: 18203
     wikipedia: Roger Wicker
     ballotpedia: Roger Wicker
+    maplight: 7588
   name:
     first: Roger
     middle: F.
@@ -1956,8 +1957,10 @@
     wikipedia: Kay Hagan
     house_history: 15594
     ballotpedia: Kay Hagan
+    maplight: 7590
   name:
     first: Kay
+    middle: R. 
     last: Hagan
     official_full: Kay R. Hagan
   bio:
@@ -2166,8 +2169,10 @@
     cspan: 56552
     wikipedia: Mike Johanns
     ballotpedia: Mike Johanns
+    maplight : 7594
   name:
     first: Michael
+    middle : O
     nickname: Mike
     last: Johanns
     official_full: Mike Johanns
@@ -2478,8 +2483,11 @@
     cspan: 1029842
     wikipedia: Jeff Merkley
     ballotpedia: Jeff Merkley
+    maplight: 7604
   name:
-    first: Jeff
+    nickname: Jeff
+    first: Jeffrey 
+    middle: Alan
     last: Merkley
     official_full: Jeff Merkley
   bio:
@@ -2623,8 +2631,11 @@
     cspan: 1020034
     wikipedia: Jim Risch
     ballotpedia: Jim Risch
+    maplight: 7581
   name:
+    nickname: Jim
     first: James
+    middle: E.
     last: Risch
     official_full: James E. Risch
   bio:
@@ -2904,6 +2915,7 @@
     wikipedia: Mark Udall
     house_history: 20877
     ballotpedia: Mark Udall
+    maplight: 7580
   name:
     first: Mark
     middle: E.
@@ -3043,9 +3055,11 @@
     cspan: 7630
     wikipedia: Mark Warner
     ballotpedia: Mark Warner
+    maplight: 7576
   name:
     first: Mark
     last: Warner
+    middle: Robert
     official_full: Mark R. Warner
   bio:
     gender: M
@@ -3078,9 +3092,10 @@
     wikipedia: Kirsten Gillibrand
     house_history: 14269
     ballotpedia: Kirsten Gillibrand
+    maplight: 7373
   name:
     first: Kirsten
-    middle: E.
+    middle: Elizabeth
     last: Gillibrand
     official_full: Kirsten E. Gillibrand
   bio:
@@ -3174,6 +3189,7 @@
     cspan: 9269028
     wikipedia: Chris Coons
     ballotpedia: Chris Coons
+    maplight: 7297
   name:
     first: Chris
     middle: Andrew
@@ -3207,6 +3223,7 @@
     cspan: 62864
     wikipedia: Joe Manchin
     ballotpedia: Joe Manchin III
+    maplight: 7414
   name:
     first: Joe
     last: Manchin
@@ -3583,8 +3600,10 @@
     wikipedia: Kelly Ayotte
     house_history: 8771
     ballotpedia: Kelly A. Ayotte
+    maplight: 7358
   name:
     first: Kelly
+    middle: A.
     last: Ayotte
     official_full: Kelly Ayotte
   bio:
@@ -4307,6 +4326,7 @@
     cspan: 1031622
     wikipedia: Michael Bennet
     ballotpedia: Michael Bennet
+    maplight: 7284
   name:
     first: Michael
     middle: F.
@@ -7870,6 +7890,7 @@
     wikipedia: Dan Coats
     house_history: 11126
     ballotpedia: Dan Coats
+    maplight: 7322
   name:
     first: Daniel
     middle: Ray
@@ -10512,8 +10533,11 @@
     wikipedia: Joe Donnelly
     house_history: 12588
     ballotpedia: Joe Donnelly
+    maplight: 7444
   name:
-    first: Joe
+    nickname: Joe
+    first: Joseph 
+    middle: S.
     last: Donnelly
     official_full: Joe Donnelly
   bio:
@@ -14569,8 +14593,10 @@
     wikipedia: Martin Heinrich
     house_history: 15588
     ballotpedia: Martin Heinrich
+    maplight: 7482
   name:
     first: Martin
+    middle: Trevor
     last: Heinrich
     official_full: Martin Heinrich
   bio:
@@ -14956,6 +14982,7 @@
     wikipedia: Mazie Hirono
     house_history: 15580
     ballotpedia: Mazie K. Hirono
+    maplight: 7441
   name:
     first: Mazie
     middle: K.
@@ -16187,8 +16214,10 @@
     cspan: 62835
     wikipedia: Ron Johnson (U.S. politician)
     ballotpedia: Ron Johnson (Wisconsin)
+    maplight: 7413
   name:
     first: Ronald
+    middle: Harold
     nickname: Ron
     last: Johnson
     official_full: Ron Johnson
@@ -21999,6 +22028,7 @@
     wikipedia: Chris Murphy (politician)
     house_history: 18809
     ballotpedia: Christopher S. Murphy
+    maplight: 7427
   name:
     first: Christopher
     middle: S.
@@ -25109,7 +25139,7 @@
     maplight: 5955
   name:
     first: Thomas
-    nick: Tom
+    nickname: Tom
     middle: W.
     last: Reed
     suffix: II
@@ -27944,8 +27974,10 @@
     cspan: 623506
     wikipedia: Tim Scott
     ballotpedia: Tim Scott
+    maplight: 10589
   name:
-    first: Tim
+    nickname: Tim
+    middle: Eugene
     last: Scott
     official_full: Tim Scott
   bio:
@@ -30463,9 +30495,10 @@
     cspan: 7958
     wikipedia: Pat Toomey
     ballotpedia: Pat Toomey
+    maplight: 7544
   name:
     first: Patrick
-    middle: J.
+    middle: Joseph
     last: Toomey
     nickname: Pat
     official_full: Patrick J. Toomey
@@ -34779,7 +34812,7 @@
     maplight: 5688
   name:
     first: Jackie
-    nick: Swihart
+    nickname: Swihart
     last: Walorski
     official_full: Jackie Walorski
     alt: Jackie Swihart Walorski
@@ -35417,8 +35450,11 @@
     fec:
     - S2NE00094
     ballotpedia: Deb Fischer
+    maplight: 7479
   name:
-    first: Deb
+    first: Debra
+    nickname: Deb
+    middle: S.
     last: Fischer
     official_full: Deb Fischer
   bio:
@@ -35958,8 +35994,11 @@
     fec:
     - S2TX00312
     ballotpedia: Ted Cruz
+    maplight: 7510
   name:
-    first: Ted
+    first: Rafael 
+    middle: Edward
+    nickname: Ted
     last: Cruz
     official_full: Ted Cruz
   bio:
@@ -36243,8 +36282,10 @@
     fec:
     - S2VA00142
     ballotpedia: Tim Kaine
+    maplight: 7518
   name:
     first: Timothy
+    middle: Michael
     last: Kaine
     official_full: Tim Kaine
   bio:

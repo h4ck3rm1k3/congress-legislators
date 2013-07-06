@@ -13,6 +13,7 @@
     wikipedia: Sherrod Brown
     house_history: 9996
     ballotpedia: Sherrod Brown
+    maplight: 7573
   name:
     first: Sherrod
     last: Brown
@@ -169,6 +170,7 @@
     wikipedia: Ben Cardin
     house_history: 10629
     ballotpedia: Ben Cardin
+    maplight: 7556
   name:
     first: Benjamin
     middle: L.
@@ -281,6 +283,7 @@
     wikipedia: Tom Carper
     house_history: 10671
     ballotpedia: Tom Carper
+    maplight: 4542
   name:
     first: Thomas
     middle: Richard
@@ -366,6 +369,7 @@
     cspan: 47036
     wikipedia: Bob Casey, Jr.
     ballotpedia: Bob Casey, Jr.
+    maplight: 4724
   name:
     first: Robert
     middle: P.
@@ -532,6 +536,7 @@
     cspan: 189
     wikipedia: Orrin Hatch
     ballotpedia: Orrin Hatch
+    maplight: 4571
   name:
     first: Orrin
     middle: G.
@@ -612,6 +617,7 @@
     wikipedia: Amy Klobuchar
     house_history: 16558
     ballotpedia: Amy Klobuchar
+    maplight: 4721
   name:
     first: Amy
     middle: Jean
@@ -660,6 +666,7 @@
     wikipedia: Claire McCaskill
     house_history: 18811
     ballotpedia: Claire McCaskill
+    maplight: 4722
   name:
     first: Claire
     last: McCaskill
@@ -708,6 +715,7 @@
     house_history: 18124
     wikipedia: Bob Menendez
     ballotpedia: Bob Menendez
+    maplight: 7568
   name:
     first: Robert
     last: Menéndez
@@ -811,6 +819,7 @@
     wikipedia: Bill Nelson
     house_history: 18875
     ballotpedia: Bill Nelson (Florida)
+    maplight: 4595
   name:
     nickname: Bill
     first: William
@@ -902,6 +911,7 @@
     cspan: 994
     wikipedia: Bernie Sanders
     ballotpedia: Bernie Sanders
+    maplight: 7545
   name:
     first: Bernard
     last: Sanders
@@ -1301,6 +1311,7 @@
     cspan: 5
     wikipedia: Lamar Alexander
     ballotpedia: Lamar Alexander
+    maplight: 4527
   name:
     first: Lamar
     last: Alexander
@@ -1345,6 +1356,7 @@
     wikipedia: Max Baucus
     house_history: 9092
     ballotpedia: Max Baucus
+    maplight: 4530
   name:
     first: Max
     middle: S.
@@ -1430,6 +1442,7 @@
     cspan: 1030732
     wikipedia: Mark Begich
     ballotpedia: Mark Begich
+    maplight: 7578
   name:
     first: Mark
     last: Begich
@@ -1466,6 +1479,7 @@
     wikipedia: Saxby Chambliss
     house_history: 10813
     ballotpedia: Saxby Chambliss
+    maplight: 4544
   name:
     first: Saxby
     last: Chambliss
@@ -1533,6 +1547,7 @@
     wikipedia: Thad Cochran
     house_history: 11160
     ballotpedia: Thad Cochran
+    maplight: 4546
   name:
     first: Thad
     last: Cochran
@@ -1623,6 +1638,7 @@
     wikipedia: Susan Collins
     house_history: 11742
     ballotpedia: Susan Collins
+    maplight: 4548
   name:
     first: Susan
     middle: M.
@@ -1671,6 +1687,7 @@
     cspan: 93131
     wikipedia: John Cornyn
     ballotpedia: John Cornyn
+    maplight: 4550
   name:
     first: John
     last: Cornyn
@@ -1721,6 +1738,7 @@
     wikipedia: Dick Durbin
     house_history: 12527
     ballotpedia: Dick Durbin
+    maplight: 4560
   name:
     first: Richard
     middle: J.
@@ -1811,6 +1829,7 @@
     cspan: 45824
     wikipedia: Mike Enzi
     ballotpedia: Mike Enzi
+    maplight: 4562
   name:
     first: Michael
     mike: Mike
@@ -1862,6 +1881,7 @@
     wikipedia: Lindsey Graham
     house_history: 14015
     ballotpedia: Lindsey Graham
+    maplight: 4566
   name:
     first: Lindsey
     middle: O.
@@ -1965,6 +1985,7 @@
     house_history: 14542
     wikipedia: Tom Harkin
     ballotpedia: Tom Harkin
+    maplight: 4570
   name:
     first: Thomas
     last: Harkin
@@ -2174,6 +2195,7 @@
     wikipedia: Tim Johnson (U.S. Senator)
     house_history: 15920
     ballotpedia: Tim Johnson, South Dakota
+    maplight: 4576
   name:
     nickname: Tim
     first: Timothy
@@ -2255,6 +2277,7 @@
     wikipedia: Mary Landrieu
     house_history: 17280
     ballotpedia: Mary Landrieu
+    maplight: 4581
   name:
     first: Mary
     middle: L.
@@ -2304,6 +2327,7 @@
     cspan: 2592
     wikipedia: Carl Levin
     ballotpedia: Carl Levin
+    maplight: 4584
   name:
     first: Carl
     last: Levin
@@ -2370,6 +2394,7 @@
     cspan: 2351
     wikipedia: Mitch McConnell
     ballotpedia: Mitch McConnell
+    maplight: 4590
   name:
     first: Mitch
     last: McConnell
@@ -2478,6 +2503,7 @@
     cspan: 1002201
     wikipedia: Mark Pryor
     ballotpedia: Mark Pryor
+    maplight: 4596
   name:
     first: Mark
     last: Pryor
@@ -2521,6 +2547,7 @@
     wikipedia: Jack Reed (politician)
     house_history: 20232
     ballotpedia: Jack Reed
+    maplight: 4597
   name:
     first: John
     middle: F.
@@ -2624,6 +2651,7 @@
     wikipedia: Pat Roberts
     house_history: 20465
     ballotpedia: Pat Roberts
+    maplight: 4599
   name:
     first: Pat
     last: Roberts
@@ -2720,6 +2748,7 @@
     cspan: 1238
     wikipedia: Jay Rockefeller
     ballotpedia: Jay Rockefeller
+    maplight: 4600
   name:
     first: John
     middle: D.
@@ -2831,6 +2860,7 @@
     cspan: 22850
     wikipedia: Jeanne Shaheen
     ballotpedia: Jeanne Shaheen
+    maplight: 7356
   name:
     first: Jeanne
     last: Shaheen
@@ -3099,6 +3129,7 @@
     cspan: 23334
     wikipedia: Al Franken
     ballotpedia: Al Franken
+    maplight: 7587
   name:
     first: Alan
     middle: Stuart
@@ -3745,6 +3776,7 @@
     wikipedia: Tammy Baldwin
     house_history: 10361
     ballotpedia: Tammy Baldwin
+    maplight: 7524
   name:
     first: Tammy
     last: Baldwin
@@ -4876,6 +4908,7 @@
     wikipedia: Roy Blunt
     house_history: 9520
     ballotpedia: Roy Blunt
+    maplight: 7347
   name:
     first: Roy
     last: Blunt
@@ -5152,6 +5185,7 @@
     wikipedia: John Boozman
     house_history: 10372
     ballotpedia: John Boozman
+    maplight: 7271
   name:
     first: John
     last: Boozman
@@ -5365,6 +5399,7 @@
     house_history: 9704
     wikipedia: Barbara Boxer
     ballotpedia: Barbara Boxer
+    maplight: 4536
   name:
     first: Barbara
     last: Boxer
@@ -6091,6 +6126,7 @@
     house_history: 10236
     wikipedia: Richard Burr
     ballotpedia: Richard Burr
+    maplight: 4169
   name:
     first: Richard
     middle: M.
@@ -8024,6 +8060,7 @@
     wikipedia: Tom Coburn
     house_history: 11151
     ballotpedia: Tom Coburn
+    maplight: 4620
   name:
     first: Thomas
     middle: A.
@@ -8825,6 +8862,7 @@
     wikipedia: Mike Crapo
     house_history: 11556
     ballotpedia: Mike Crapo
+    maplight: 4553
   name:
     first: Michael
     middle: D.
@@ -13127,6 +13165,7 @@
     wikipedia: Chuck Grassley
     house_history: 14050
     ballotpedia: Chuck Grassley
+    maplight: 4567
   name:
     first: Charles
     middle: E.
@@ -14965,6 +15004,7 @@
     cspan: 85233
     wikipedia: John Hoeven
     ballotpedia: John Hoeven
+    maplight: 7353
   name:
     first: John
     last: Hoeven
@@ -17092,6 +17132,7 @@
     wikipedia: Mark Kirk
     house_history: 16544
     ballotpedia: Mark Kirk
+    maplight: 7316
   name:
     first: Mark
     middle: Steven
@@ -17854,6 +17895,7 @@
     cspan: 1552
     wikipedia: Patrick Leahy
     ballotpedia: Patrick Leahy
+    maplight: 4583
   name:
     first: Patrick
     middle: J.
@@ -19680,6 +19722,7 @@
     wikipedia: John McCain
     house_history: 17696
     ballotpedia: John McCain
+    maplight: 4589
   name:
     first: John
     middle: S.
@@ -21084,6 +21127,7 @@
     wikipedia: Barbara Mikulski
     house_history: 18207
     ballotpedia: Barbara Mikulski
+    maplight: 4591
   name:
     first: Barbara
     middle: A.
@@ -21888,6 +21932,7 @@
     wikipedia: Lisa Murkowski
     house_history: 18778
     ballotpedia: Lisa Murkowski
+    maplight: 4592
   name:
     first: Lisa
     middle: A.
@@ -22074,6 +22119,7 @@
     wikipedia: Patty Murray
     house_history: 18715
     ballotpedia: Patty Murray
+    maplight: 4593
   name:
     first: Patty
     last: Murray
@@ -24344,6 +24390,7 @@
     house_history: 19838
     wikipedia: Rob Portman
     ballotpedia: Rob Portman
+    maplight: 7379
   name:
     first: Robert
     middle: J.
@@ -25165,6 +25212,7 @@
     wikipedia: Harry Reid
     house_history: 20266
     ballotpedia: Harry Reid
+    maplight: 4598
   name:
     first: Harry
     middle: M.
@@ -26480,6 +26528,7 @@
     cspan: 87599
     wikipedia: Marco Rubio
     ballotpedia: Marco Rubio
+    maplight: 7299
   name:
     first: Marco
     last: Rubio
@@ -27441,6 +27490,7 @@
     cspan: 5929
     wikipedia: Chuck Schumer
     ballotpedia: Chuck Schumer
+    maplight: 4603
   name:
     first: Charles
     middle: E.
@@ -28326,6 +28376,7 @@
     cspan: 1859
     wikipedia: Richard Shelby
     ballotpedia: Richard Shelby
+    maplight: 4605
   name:
     first: Richard
     middle: C.
@@ -30068,6 +30119,7 @@
     cspan: 45552
     wikipedia: John Thune
     ballotpedia: John Thune
+    maplight: 4618
   name:
     first: John
     last: Thune
@@ -31021,6 +31073,7 @@
     wikipedia: David Vitter
     house_history: 21030
     ballotpedia: David Vitter
+    maplight: 4500
   name:
     first: David
     last: Vitter
@@ -32404,6 +32457,7 @@
     cspan: 1962
     wikipedia: Ron Wyden
     ballotpedia: Ron Wyden
+    maplight: 4616
   name:
     first: Ronald
     nickname: Ron
@@ -32999,6 +33053,7 @@
     wikipedia: Dean Heller
     house_history: 15578
     ballotpedia: Dean Heller
+    maplight: 7486
   name:
     first: Dean
     last: Heller
@@ -33375,6 +33430,7 @@
     fec:
     - H6HI02244
     ballotpedia: Brian E. Schatz
+    maplight: 35931
   name:
     first: Brian
     middle: Emanuel
@@ -34836,6 +34892,7 @@
     fec:
     - S2MA00170
     ballotpedia: Elizabeth Warren
+    maplight: 7453
   name:
     first: Elizabeth
     last: Warren
@@ -34933,9 +34990,12 @@
     fec:
     - S2ME00109
     ballotpedia: Angus King
+    maplight: 7796
   name:
     first: Angus
+    middle: Stanley
     last: King
+    suffix: Jr.
     official_full: Angus S. King, Jr.
   bio:
     gender: M
@@ -35276,6 +35336,7 @@
     fec:
     - S2ND00099
     ballotpedia: Heidi Heitkamp
+    maplight: 7477
   name:
     first: Heidi
     last: Heitkamp
@@ -36429,6 +36490,7 @@
     thomas: '02192'
     ballotpedia: Jeff Chiesa
     cspan: 64996
+    maplight: 36111
   name:
     first: Jeffrey
     middle: Scott

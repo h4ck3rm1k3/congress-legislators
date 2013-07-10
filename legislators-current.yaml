@@ -17,6 +17,7 @@
     maplight_name: Sherrod Brown
     opencong: 400050
     opencongwiki: Sherrod_Brown
+    beta_name: sherrod-brown
   name:
     first: Sherrod
     last: Brown
@@ -114,6 +115,7 @@
     maplight_name: Maria Cantwell
     opencong: 300018
     opencongwiki: Maria_Cantwell
+    beta_name: maria-cantwell
   name:
     first: Maria
     last: Cantwell
@@ -181,6 +183,7 @@
     maplight_name: Benjamin L Cardin
     opencong: 400064
     opencongwiki: Benjamin_Cardin
+    beta_name: benjamin-cardin
   name:
     first: Benjamin
     middle: L.
@@ -297,6 +300,7 @@
     maplight_name: Thomas Carper
     opencong: 300019
     opencongwiki: Thomas_Carper
+    beta_name: thomas-carper
   name:
     first: Thomas
     middle: Richard
@@ -386,6 +390,7 @@
     maplight_name: Robert Casey
     opencong: 412246
     opencongwiki: Robert_Casey
+    beta_name: bob-casey
   name:
     first: Robert
     middle: P.
@@ -440,6 +445,7 @@
     maplight_name: Bob Corker
     opencong: 412248
     opencongwiki: Bob_Corker
+    beta_name: bob-corker
   name:
     nickname: Bob
     first: Robert
@@ -492,6 +498,7 @@
     maplight_name: Dianne Feinstein
     opencong: 300043
     opencongwiki: Dianne_Feinstein
+    beta_name: dianne-feinstein
   name:
     first: Dianne
     last: Feinstein
@@ -564,6 +571,7 @@
     maplight_name: Orrin Hatch
     opencong: 300052
     opencongwiki: Orrin_Hatch
+    beta_name: orrin-hatch
   name:
     first: Orrin
     middle: G.
@@ -648,6 +656,7 @@
     maplight_name: Amy Klobuchar
     opencong: 412242
     opencongwiki: Amy_Klobuchar
+    beta_name: amy-klobuchar
   name:
     first: Amy
     middle: Jean
@@ -700,6 +709,7 @@
     maplight_name: Claire Mccaskill
     opencong: 412243
     opencongwiki: Claire_McCaskill
+    beta_name: claire-mccaskill
   name:
     first: Claire
     last: McCaskill
@@ -752,6 +762,7 @@
     maplight_name: Robert Menendez
     opencong: 400272
     opencongwiki: Robert_Menéndez
+    beta_name: robert-menendez
   name:
     first: Robert
     last: Menéndez
@@ -859,6 +870,7 @@
     maplight_name: Bill Nelson
     opencong: 300078
     opencongwiki: Bill_Nelson
+    beta_name: clarence-nelson
   name:
     nickname: Bill
     first: William
@@ -954,6 +966,7 @@
     maplight_name: Bernard Sanders
     opencong: 400357
     opencongwiki: Bernard_Sanders
+    beta_name: bernard-sanders
   name:
     first: Bernard
     last: Sanders
@@ -1057,6 +1070,7 @@
     maplight_name: Debbie Ann Stabenow
     opencong: 300093
     opencongwiki: Debbie_Stabenow
+    beta_name: deborah-stabenow
   name:
     first: Debbie
     middle: Ann
@@ -1128,6 +1142,7 @@
     maplight_name: Jon Tester
     opencong: 412244
     opencongwiki: Jon_Tester
+    beta_name: jon-tester
   name:
     first: Jon
     last: Tester
@@ -1178,6 +1193,7 @@
     maplight_name: Sheldon Whitehouse
     opencong: 412247
     opencongwiki: Sheldon_Whitehouse
+    beta_name: sheldon-whitehouse
   name:
     first: Sheldon
     last: Whitehouse
@@ -1228,6 +1244,7 @@
     maplight_name: John Barrasso
     opencong: 412251
     opencongwiki: John_Barrasso
+    beta_name: john-barrasso
   name:
     first: John
     middle: A.
@@ -1280,6 +1297,7 @@
     maplight_name: Roger F Wicker
     opencong: 400432
     opencongwiki: Roger_Wicker
+    beta_name: roger-wicker
   name:
     first: Roger
     middle: F.
@@ -1377,6 +1395,7 @@
     maplight_name: Lamar Alexander
     opencong: 300002
     opencongwiki: Lamar_Alexander
+    beta_name: lamar-alexander
   name:
     first: Lamar
     last: Alexander
@@ -1425,6 +1444,7 @@
     maplight_name: Max Baucus
     opencong: 300005
     opencongwiki: Max_Baucus
+    beta_name: max-baucus
   name:
     first: Max
     middle: S.
@@ -1514,6 +1534,7 @@
     maplight_name: Mark Begich
     opencong: 412326
     opencongwiki: Mark_Begich
+    beta_name: mark-begich
   name:
     first: Mark
     last: Begich
@@ -1554,6 +1575,7 @@
     maplight_name: Saxby Chambliss
     opencong: 300021
     opencongwiki: Saxby_Chambliss
+    beta_name: saxby-chambliss
   name:
     first: Saxby
     last: Chambliss
@@ -1625,6 +1647,7 @@
     maplight_name: Thad Cochran
     opencong: 300023
     opencongwiki: Thad_Cochran
+    beta_name: thad-cochran
   name:
     first: Thad
     last: Cochran
@@ -1719,6 +1742,7 @@
     maplight_name: Susan Collins
     opencong: 300025
     opencongwiki: Susan_Collins
+    beta_name: susan-collins
   name:
     first: Susan
     middle: M.
@@ -1771,6 +1795,7 @@
     maplight_name: John Cornyn
     opencong: 300027
     opencongwiki: John_Cornyn
+    beta_name: john-cornyn
   name:
     first: John
     last: Cornyn
@@ -1825,6 +1850,7 @@
     maplight_name: Richard Durbin
     opencong: 300038
     opencongwiki: Richard_Durbin
+    beta_name: richard-durbin
   name:
     first: Richard
     middle: J.
@@ -1919,6 +1945,7 @@
     maplight_name: Michael Enzi
     opencong: 300041
     opencongwiki: Michael_Enzi
+    beta_name: michael-enzi
   name:
     first: Michael
     mike: Mike
@@ -1974,6 +2001,7 @@
     maplight_name: Lindsey Graham
     opencong: 300047
     opencongwiki: Lindsey_Graham
+    beta_name: lindsey-graham
   name:
     first: Lindsey
     middle: O.
@@ -2045,6 +2073,7 @@
     maplight_name: Kay R Hagan
     opencong: 412324
     opencongwiki: Kay_Hagan
+    beta_name: kay-hagan
   name:
     first: Kay
     middle: R.
@@ -2086,6 +2115,7 @@
     maplight_name: Thomas Harkin
     opencong: 300051
     opencongwiki: Thomas_Harkin
+    beta_name: thomas-harkin
   name:
     first: Thomas
     last: Harkin
@@ -2183,6 +2213,7 @@
     maplight_name: James Inhofe
     opencong: 300055
     opencongwiki: James_Inhofe
+    beta_name: jim-inhofe
   name:
     first: James
     middle: M.
@@ -2266,6 +2297,7 @@
     maplight_name: Michael O Johanns
     opencong: 412320
     opencongwiki: Mike_Johanns
+    beta_name: mike-johanns
   name:
     first: Michael
     middle: O
@@ -2308,6 +2340,7 @@
     maplight_name: Tim Johnson
     opencong: 300058
     opencongwiki: Tim_Johnson
+    beta_name: tim-johnson
   name:
     nickname: Tim
     first: Timothy
@@ -2393,6 +2426,7 @@
     maplight_name: Mary Landrieu
     opencong: 300063
     opencongwiki: Mary_Landrieu
+    beta_name: mary-landrieu
   name:
     first: Mary
     middle: L.
@@ -2446,6 +2480,7 @@
     maplight_name: Carl Levin
     opencong: 300066
     opencongwiki: Carl_Levin
+    beta_name: carl-levin
   name:
     first: Carl
     last: Levin
@@ -2516,6 +2551,7 @@
     maplight_name: Mitch Mcconnell
     opencong: 300072
     opencongwiki: Mitch_McConnell
+    beta_name: mitch-mcconnell
   name:
     first: Mitch
     last: McConnell
@@ -2595,6 +2631,7 @@
     maplight_name: Jeffrey Alan Merkley
     opencong: 412325
     opencongwiki: Jeff_Merkley
+    beta_name: jeff-merkley
   name:
     nickname: Jeff
     first: Jeffrey
@@ -2634,6 +2671,7 @@
     maplight_name: Mark Pryor
     opencong: 300080
     opencongwiki: Mark_Pryor
+    beta_name: mark-pryor
   name:
     first: Mark
     last: Pryor
@@ -2681,6 +2719,7 @@
     maplight_name: John Reed
     opencong: 300081
     opencongwiki: John_Reed
+    beta_name: john-reed
   name:
     first: John
     middle: F.
@@ -2752,6 +2791,7 @@
     maplight_name: Mr James E Risch
     opencong: 412322
     opencongwiki: James_Risch
+    beta_name: james-risch
   name:
     nickname: Jim
     first: James
@@ -2794,6 +2834,7 @@
     maplight_name: Pat Roberts
     opencong: 300083
     opencongwiki: Pat_Roberts
+    beta_name: pat-roberts
   name:
     first: Pat
     last: Roberts
@@ -2894,6 +2935,7 @@
     maplight_name: John Rockefeller
     opencong: 300084
     opencongwiki: John_Rockefeller
+    beta_name: jay-rockefeller
   name:
     first: John
     middle: D.
@@ -2960,6 +3002,7 @@
     maplight_name: Jefferson Sessions
     opencong: 300088
     opencongwiki: Jefferson_Sessions
+    beta_name: jeff-sessions
   name:
     first: Jefferson
     middle: B.
@@ -3013,6 +3056,7 @@
     maplight_name: Jeanne Shaheen
     opencong: 412323
     opencongwiki: Jeanne_Shaheen
+    beta_name: jeanne-shaheen
   name:
     first: Jeanne
     last: Shaheen
@@ -3051,6 +3095,7 @@
     maplight_name: Mark E Udall
     opencong: 400412
     opencongwiki: Mark_Udall
+    beta_name: mark-udall
   name:
     first: Mark
     middle: E.
@@ -3124,6 +3169,7 @@
     maplight_name: Tom Udall
     opencong: 400413
     opencongwiki: Tom_Udall
+    beta_name: tom-udall
   name:
     first: Tom
     middle: S.
@@ -3197,6 +3243,7 @@
     maplight_name: Mark Robert Warner
     opencong: 412321
     opencongwiki: Mark_Warner
+    beta_name: mark-warner
   name:
     first: Mark
     last: Warner
@@ -3237,6 +3284,7 @@
     maplight_name: Kirsten Elizabeth Gillibrand
     opencong: 412223
     opencongwiki: Kirsten_Gillibrand
+    beta_name: kirsten-gillibrand
   name:
     first: Kirsten
     middle: Elizabeth
@@ -3302,6 +3350,7 @@
     maplight_name: Al Franken
     opencong: 412378
     opencongwiki: Alan_Franken
+    beta_name: al-franken
   name:
     first: Alan
     middle: Stuart
@@ -3340,6 +3389,7 @@
     maplight_name: Christopher A Coons
     opencong: 412390
     opencongwiki: Chris_Coons
+    beta_name: christopher-coons
   name:
     first: Chris
     middle: Andrew
@@ -3377,6 +3427,7 @@
     maplight_name: Joe Manchin Iii
     opencong: 412391
     opencongwiki: Joe_Manchin
+    beta_name: joe-manchin
   name:
     first: Joe
     last: Manchin
@@ -3426,6 +3477,7 @@
     maplight_name: Robert Aderholt
     opencong: 400004
     opencongwiki: Robert_Aderholt
+    beta_name: robert-aderholt
   name:
     first: Robert
     last: Aderholt
@@ -3523,6 +3575,7 @@
     maplight_name: Rodney Alexander
     opencong: 400006
     opencongwiki: Rodney_Alexander
+    beta_name: rodney-alexander
   name:
     first: Rodney
     middle: M.
@@ -3601,6 +3654,7 @@
     maplight_name: Justin Amash
     opencong: 412438
     opencongwiki: Justin_Amash
+    beta_name: justin-amash
   name:
     first: Justin
     last: Amash
@@ -3648,6 +3702,7 @@
     maplight_name: Robert Andrews
     opencong: 400008
     opencongwiki: Robert_Andrews
+    beta_name: robert-andrews
   name:
     first: Robert
     middle: E.
@@ -3769,6 +3824,7 @@
     maplight_name: Kelly A Ayotte
     opencong: 412493
     opencongwiki: Kelly_Ayotte
+    beta_name: kelly-ayotte
   name:
     first: Kelly
     middle: A.
@@ -3807,6 +3863,7 @@
     maplight_name: Michele Bachmann
     opencong: 412216
     opencongwiki: Michele_Bachmann
+    beta_name: michele-bachmann
   name:
     first: Michele
     middle: Marie
@@ -3871,6 +3928,7 @@
     maplight_name: Spencer Bachus
     opencong: 400010
     opencongwiki: Spencer_Bachus
+    beta_name: spencer-bachus
   name:
     first: Spencer
     middle: Thomas
@@ -3983,6 +4041,7 @@
     maplight_name: Tammy Baldwin
     opencong: 400013
     opencongwiki: Tammy_Baldwin
+    beta_name: tammy-baldwin
   name:
     first: Tammy
     last: Baldwin
@@ -4072,6 +4131,7 @@
     maplight_name: Lou Barletta
     opencong: 412469
     opencongwiki: Lou_Barletta
+    beta_name: lou-barletta
   name:
     first: Lou
     last: Barletta
@@ -4119,6 +4179,7 @@
     maplight_name: John Barrow
     opencong: 400628
     opencongwiki: John_Barrow
+    beta_name: john-barrow
   name:
     first: John
     last: Barrow
@@ -4189,6 +4250,7 @@
     maplight_name: Joe Barton
     opencong: 400018
     opencongwiki: Joe_Barton
+    beta_name: joe-barton
   name:
     first: Joe
     middle: Linus
@@ -4321,6 +4383,7 @@
     maplight_name: Karen Bass
     opencong: 412404
     opencongwiki: Karen_Bass
+    beta_name: karen-bass
   name:
     first: Karen
     last: Bass
@@ -4368,6 +4431,7 @@
     maplight_name: Xavier Becerra
     opencong: 400021
     opencongwiki: Xavier_Becerra
+    beta_name: xavier-becerra
   name:
     first: Xavier
     last: Becerra
@@ -4476,6 +4540,7 @@
     maplight_name: Daniel J Benishek
     opencong: 412436
     opencongwiki: Dan_Benishek
+    beta_name: dan-benishek
   name:
     first: Daniel
     nickname: Dan
@@ -4525,6 +4590,7 @@
     maplight_name: Michael F Bennet
     opencong: 412330
     opencongwiki: Michael_Bennet
+    beta_name: michael-bennet
   name:
     first: Michael
     middle: F.
@@ -4571,6 +4637,7 @@
     maplight_name: Gus Bilirakis
     opencong: 412250
     opencongwiki: Gus_Bilirakis
+    beta_name: gus-bilirakis
   name:
     first: Gus
     last: Bilirakis
@@ -4635,6 +4702,7 @@
     maplight_name: Rob Bishop
     opencong: 400029
     opencongwiki: Rob_Bishop
+    beta_name: rob-bishop
   name:
     first: Rob
     last: Bishop
@@ -4711,6 +4779,7 @@
     maplight_name: Sanford Bishop
     opencong: 400030
     opencongwiki: Sanford_Bishop
+    beta_name: sanford-bishop
   name:
     first: Sanford
     middle: D.
@@ -4820,6 +4889,7 @@
     maplight_name: Timothy Bishop
     opencong: 400031
     opencongwiki: Timothy_Bishop
+    beta_name: timothy-bishop
   name:
     first: Timothy
     middle: H.
@@ -4898,6 +4968,7 @@
     maplight_name: Mrs. Diane L Black
     opencong: 412478
     opencongwiki: Diane_Black
+    beta_name: diane-black
   name:
     prefix: Mrs.
     first: Diane
@@ -4947,6 +5018,7 @@
     maplight_name: Marsha Blackburn
     opencong: 400032
     opencongwiki: Marsha_Blackburn
+    beta_name: marsha-blackburn
   name:
     first: Marsha
     middle: W.
@@ -5026,6 +5098,7 @@
     maplight_name: Earl Blumenauer
     opencong: 400033
     opencongwiki: Earl_Blumenauer
+    beta_name: earl-blumenauer
   name:
     first: Earl
     last: Blumenauer
@@ -5127,6 +5200,7 @@
     maplight_name: Richard Blumenthal
     opencong: 412490
     opencongwiki: Richard_Blumenthal
+    beta_name: richard-blumenthal
   name:
     first: Richard
     last: Blumenthal
@@ -5165,6 +5239,7 @@
     maplight_name: Roy Blunt
     opencong: 400034
     opencongwiki: Roy_Blunt
+    beta_name: roy-blunt
   name:
     first: Roy
     last: Blunt
@@ -5248,6 +5323,7 @@
     maplight_name: John Boehner
     opencong: 400036
     opencongwiki: John_Boehner
+    beta_name: john-boehner
   name:
     first: John
     middle: A.
@@ -5371,6 +5447,7 @@
     maplight_name: Jo Bonner
     opencong: 400038
     opencongwiki: Jo_Bonner
+    beta_name: jo-bonner
   name:
     first: Jo
     last: Bonner
@@ -5451,6 +5528,7 @@
     maplight_name: John Boozman
     opencong: 400040
     opencongwiki: John_Boozman
+    beta_name: john-boozman
   name:
     first: John
     last: Boozman
@@ -5519,6 +5597,7 @@
     maplight: 6363
     maplight_name: Ms. Madeleine Z. Bordallo
     opencongwiki: Madeleine_Bordallo
+    beta_name: madeleine-bordallo
   name:
     first: Madeleine
     middle: Z.
@@ -5598,6 +5677,7 @@
     maplight_name: Charles Boustany
     opencong: 400636
     opencongwiki: Charles_Boustany
+    beta_name: charles-boustany
   name:
     first: Charles
     middle: W.
@@ -5673,6 +5753,7 @@
     maplight_name: Barbara Boxer
     opencong: 300011
     opencongwiki: Barbara_Boxer
+    beta_name: barbara-boxer
   name:
     first: Barbara
     last: Boxer
@@ -5760,6 +5841,7 @@
     maplight_name: Kevin Brady
     opencong: 400046
     opencongwiki: Kevin_Brady
+    beta_name: kevin-brady
   name:
     first: Kevin
     middle: P.
@@ -5857,6 +5939,7 @@
     maplight_name: Robert Brady
     opencong: 400047
     opencongwiki: Robert_Brady
+    beta_name: robert-brady
   name:
     first: Robert
     middle: A.
@@ -5953,6 +6036,7 @@
     maplight_name: Bruce Braley
     opencong: 412208
     opencongwiki: Bruce_Braley
+    beta_name: bruce-braley
   name:
     first: Bruce
     middle: L.
@@ -6017,6 +6101,7 @@
     maplight_name: Mo Brooks
     opencong: 412395
     opencongwiki: Mo_Brooks
+    beta_name: mo-brooks
   name:
     first: Mo
     last: Brooks
@@ -6066,6 +6151,7 @@
     maplight_name: Paul Collins Broun
     opencong: 412252
     opencongwiki: Paul_Broun
+    beta_name: paul-broun
   name:
     first: Paul
     middle: C.
@@ -6132,6 +6218,7 @@
     maplight_name: Corrine Brown
     opencong: 400048_CORRINE_BROWN
     opencongwiki: Corrine_Brown
+    beta_name: corrine-brown
   name:
     first: Corrine
     last: Brown
@@ -6239,6 +6326,7 @@
     maplight: 4680
     maplight_name: Vern Buchanan
     opencongwiki: Vern_Buchanan
+    beta_name: vern-buchanan
   name:
     first: Vern
     last: Buchanan
@@ -6301,6 +6389,7 @@
     maplight_name: Larry D Bucshon
     opencong: 412427
     opencongwiki: Larry_Bucshon
+    beta_name: larry-bucshon
   name:
     first: Larry
     middle: D.
@@ -6348,6 +6437,7 @@
     maplight_name: Michael Burgess
     opencong: 400052
     opencongwiki: Michael_Burgess
+    beta_name: michael-burgess
   name:
     first: Michael
     middle: C.
@@ -6429,6 +6519,7 @@
     maplight_name: Richard Burr
     opencong: 400054
     opencongwiki: Richard_Burr
+    beta_name: richard-burr
   name:
     first: Richard
     middle: M.
@@ -6506,6 +6597,7 @@
     maplight_name: George Butterfield
     opencong: 400616
     opencongwiki: George_Butterfield
+    beta_name: g-k-butterfield
   name:
     first: George
     middle: Kenneth
@@ -6585,6 +6677,7 @@
     maplight_name: Ken Calvert
     opencong: 400057
     opencongwiki: Ken_Calvert
+    beta_name: ken-calvert
   name:
     first: Ken
     middle: S.
@@ -6694,6 +6787,7 @@
     maplight_name: David Camp
     opencong: 400058
     opencongwiki: Dave_Camp
+    beta_name: dave-camp
   name:
     first: Dave
     middle: Lee
@@ -6808,6 +6902,7 @@
     maplight_name: John Campbell
     opencong: 412011_JOHN_CAMPBELL
     opencongwiki: John_Campbell
+    beta_name: john-campbell
   name:
     first: John
     middle: Bayard Taylor
@@ -6880,6 +6975,7 @@
     maplight_name: Eric Cantor
     opencong: 400060_ERIC_CANTOR
     opencongwiki: Eric_Cantor
+    beta_name: eric-cantor
   name:
     first: Eric
     middle: I.
@@ -6966,6 +7062,7 @@
     maplight_name: Shelley Capito
     opencong: 400061_SHELLEY_CAPITO
     opencongwiki: Error
+    beta_name: shelley-capito
   name:
     first: Shelley
     middle: Moore
@@ -7050,6 +7147,7 @@
     maplight_name: Lois Capps
     opencong: 400062_LOIS_CAPPS
     opencongwiki: Lois_Capps
+    beta_name: lois-capps
   name:
     first: Lois
     last: Capps
@@ -7148,6 +7246,7 @@
     maplight_name: Michael Capuano
     opencong: '400063'
     opencongwiki: Michael_Capuano
+    beta_name: michael-capuano
   name:
     first: Michael
     middle: E.
@@ -7238,6 +7337,7 @@
     maplight_name: John Charles Carney Jr
     opencong: 412407_JOHN_CARNEY
     opencongwiki: John_Carney
+    beta_name: john-carney
   name:
     first: John
     last: Carney
@@ -7289,6 +7389,7 @@
     maplight_name: Andre Carson
     opencong: 412258_ANDRE_CARSON
     opencongwiki: Error
+    beta_name: andre-carson
   name:
     first: André
     last: Carson
@@ -7352,6 +7453,7 @@
     maplight_name: John Carter
     opencong: 400068_JOHN_CARTER
     opencongwiki: John_Carter
+    beta_name: john-carter
   name:
     first: John
     middle: R.
@@ -7431,6 +7533,7 @@
     maplight_name: William Cassidy
     opencong: 412269_BILL_CASSIDY
     opencongwiki: Bill_Cassidy
+    beta_name: bill-cassidy
   name:
     nickname: Bill
     first: William
@@ -7489,6 +7592,7 @@
     maplight_name: Kathy Castor
     opencong: 412195_KATHY_CASTOR
     opencongwiki: Kathy_Castor
+    beta_name: kathy-castor
   name:
     first: Kathy
     last: Castor
@@ -7552,6 +7656,7 @@
     maplight_name: Steven Chabot
     opencong: 400071_STEVEN_CHABOT
     opencongwiki: Steve_Chabot
+    beta_name: steve-chabot
   name:
     first: Steve
     middle: J.
@@ -7646,6 +7751,7 @@
     maplight_name: Jason Chaffetz
     opencong: '412270'
     opencongwiki: Jason_Chaffetz
+    beta_name: jason-chaffetz
   name:
     first: Jason
     last: Chaffetz
@@ -7701,6 +7807,7 @@
     maplight_name: Donna M Christensen
     opencong: 400073
     opencongwiki: Donna_Christensen
+    beta_name: donna-christensen
   name:
     first: Donna
     middle: M.
@@ -7797,6 +7904,7 @@
     maplight_name: Judy Chu
     opencong: 412379_JUDY_CHU
     opencongwiki: Judy_Chu
+    beta_name: judy-chu
   name:
     first: Judy
     middle: M.
@@ -7854,6 +7962,7 @@
     maplight_name: David N Cicilline
     opencong: '412470'
     opencongwiki: David_Cicilline
+    beta_name: david-cicilline
   name:
     first: David
     last: Cicilline
@@ -7902,6 +8011,7 @@
     maplight_name: Yvette Clarke
     opencong: 412221_YVETTE_CLARKE
     opencongwiki: Yvette_Clarke
+    beta_name: yvette-clarke
   name:
     first: Yvette
     middle: D.
@@ -7965,6 +8075,7 @@
     maplight_name: William Clay
     opencong: 400074_WILLIAM_CLAY
     opencongwiki: Error
+    beta_name: wm-clay
   name:
     first: William
     middle: Lacy
@@ -8049,6 +8160,7 @@
     maplight_name: Emanuel Cleaver
     opencong: 400639_EMANUEL_CLEAVER
     opencongwiki: Emanuel_Cleaver
+    beta_name: emanuel-cleaver
   name:
     first: Emanuel
     last: Cleaver
@@ -8119,6 +8231,7 @@
     maplight_name: James Clyburn
     opencong: '400075'
     opencongwiki: James_Clyburn
+    beta_name: james-clyburn
   name:
     first: James
     middle: E.
@@ -8231,6 +8344,7 @@
     maplight_name: Daniel R Coats
     opencong: 402675_DANIEL_COATS
     opencongwiki: Daniel_Coats
+    beta_name: daniel-coats
   name:
     first: Daniel
     middle: Ray
@@ -8305,6 +8419,7 @@
     maplight_name: Howard Coble
     opencong: 400076_HOWARD_COBLE
     opencongwiki: Howard_Coble
+    beta_name: howard-coble
   name:
     first: Howard
     last: Coble
@@ -8439,6 +8554,7 @@
     maplight_name: Thomas Coburn
     opencong: '400576'
     opencongwiki: Thomas_Coburn
+    beta_name: tom-coburn
   name:
     first: Thomas
     middle: A.
@@ -8503,6 +8619,7 @@
     maplight_name: Michael Coffman
     opencong: 412271_MIKE_COFFMAN
     opencongwiki: Mike_Coffman
+    beta_name: mike-coffman
   name:
     first: Michael
     nickname: Mike
@@ -8559,6 +8676,7 @@
     maplight_name: Steve Cohen
     opencong: 412236_STEVE_COHEN
     opencongwiki: Steve_Cohen
+    beta_name: steve-cohen
   name:
     first: Steve
     last: Cohen
@@ -8622,6 +8740,7 @@
     maplight_name: Tom Cole
     opencong: '400077'
     opencongwiki: Tom_Cole
+    beta_name: tom-cole
   name:
     first: Tom
     last: Cole
@@ -8701,6 +8820,7 @@
     maplight_name: K. Conaway
     opencong: 400655_K_CONAWAY
     opencongwiki: Error
+    beta_name: k-conaway
   name:
     first: K.
     middle: Michael
@@ -8770,6 +8890,7 @@
     maplight_name: Gerry Connolly
     opencong: 412272_GERALD_CONNOLLY
     opencongwiki: Gerald_Connolly
+    beta_name: gerald-connolly
   name:
     first: Gerald
     middle: E.
@@ -8828,6 +8949,7 @@
     maplight_name: John Conyers
     opencong: 400080_JOHN_CONYERS
     opencongwiki: John_Conyers
+    beta_name: john-conyers
   name:
     first: John
     last: Conyers
@@ -9024,6 +9146,7 @@
     maplight_name: Jim Cooper
     opencong: 400081_JIM_COOPER
     opencongwiki: Jim_Cooper
+    beta_name: james-cooper
   name:
     first: Jim
     last: Cooper
@@ -9137,6 +9260,7 @@
     maplight_name: Jim Costa
     opencong: 400618_JIM_COSTA
     opencongwiki: Jim_Costa
+    beta_name: jim-costa
   name:
     first: Jim
     last: Costa
@@ -9206,6 +9330,7 @@
     maplight_name: Joe Courtney
     opencong: 412193_JOE_COURTNEY
     opencongwiki: Joe_Courtney
+    beta_name: joe-courtney
   name:
     first: Joe
     last: Courtney
@@ -9271,6 +9396,7 @@
     maplight_name: Michael Crapo
     opencong: 300030_MICHAEL_CRAPO
     opencongwiki: Michael_Crapo
+    beta_name: michael-crapo
   name:
     first: Michael
     middle: D.
@@ -9342,6 +9468,7 @@
     maplight_name: Eric Alan Rick Crawford
     opencong: 412400_RICK_CRAWFORD
     opencongwiki: Error
+    beta_name: eric-crawford
   name:
     first: Eric
     middle: A.
@@ -9391,6 +9518,7 @@
     maplight_name: Ander Crenshaw
     opencong: 400086_ANDER_CRENSHAW
     opencongwiki: Ander_Crenshaw
+    beta_name: ander-crenshaw
   name:
     first: Ander
     last: Crenshaw
@@ -9474,6 +9602,7 @@
     maplight_name: Joseph Crowley
     opencong: 400087_JOSEPH_CROWLEY
     opencongwiki: Joseph_Crowley
+    beta_name: joseph-crowley
   name:
     first: Joseph
     last: Crowley
@@ -9563,6 +9692,7 @@
     maplight_name: Henry Cuellar
     opencong: 400657_HENRY_CUELLAR
     opencongwiki: Henry_Cuellar
+    beta_name: henry-cuellar
   name:
     first: Henry
     last: Cuellar
@@ -9633,6 +9763,7 @@
     maplight_name: John Culberson
     opencong: 400089_JOHN_CULBERSON
     opencongwiki: John_Culberson
+    beta_name: john-culberson
   name:
     first: John
     middle: Abney
@@ -9718,6 +9849,7 @@
     maplight_name: Elijah Cummings
     opencong: '400090'
     opencongwiki: Elijah_Cummings
+    beta_name: elijah-cummings
   name:
     first: Elijah
     middle: E.
@@ -9821,6 +9953,7 @@
     maplight_name: Danny Davis
     opencong: '400093'
     opencongwiki: Danny_Davis
+    beta_name: danny-davis
   name:
     first: Danny
     middle: K.
@@ -9917,6 +10050,7 @@
     maplight_name: Susan Davis
     opencong: 400097_SUSAN_DAVIS
     opencongwiki: Susan_Davis
+    beta_name: susan-davis
   name:
     first: Susan
     middle: A.
@@ -10003,6 +10137,7 @@
     maplight_name: Peter Defazio
     opencong: 400100_PETER_DEFAZIO
     opencongwiki: Peter_DeFazio
+    beta_name: peter-defazio
   name:
     first: Peter
     middle: A.
@@ -10130,6 +10265,7 @@
     maplight_name: Diana Degette
     opencong: 400101_DIANA_DEGETTE
     opencongwiki: Diana_DeGette
+    beta_name: diana-degette
   name:
     first: Diana
     middle: L.
@@ -10226,6 +10362,7 @@
     maplight_name: Rosa Delauro
     opencong: 400103_ROSA_DELAURO
     opencongwiki: Rosa_DeLauro
+    beta_name: rosa-delauro
   name:
     first: Rosa
     middle: L.
@@ -10340,6 +10477,7 @@
     maplight_name: Jeff Denham
     opencong: 412403_JEFF_DENHAM
     opencongwiki: Jeff_Denham
+    beta_name: jeff-denham
   name:
     first: Jeff
     last: Denham
@@ -10387,6 +10525,7 @@
     maplight_name: Charles Dent
     opencong: 400648_CHARLES_DENT
     opencongwiki: Charles_Dent
+    beta_name: charles-dent
   name:
     first: Charles
     middle: W.
@@ -10456,6 +10595,7 @@
     maplight_name: Scott Eugene Desjarlais
     opencong: 412477_SCOTT_DESJARLAIS
     opencongwiki: Error
+    beta_name: scott-desjarlais
   name:
     first: Scott
     middle: Eugene
@@ -10504,6 +10644,7 @@
     maplight_name: Theodore Eliot Deutch
     opencong: 412385_TED_DEUTCH
     opencongwiki: Error
+    beta_name: theodore-deutch
   name:
     first: Theodore
     middle: E.
@@ -10561,6 +10702,7 @@
     maplight_name: Mario Diaz-balart
     opencong: 400108_MARIO_DIAZ_BALART
     opencongwiki: Mario_Diaz-Balart
+    beta_name: mario-diaz-balart
   name:
     first: Mario
     last: Diaz-Balart
@@ -10640,6 +10782,7 @@
     maplight_name: John Dingell
     opencong: 400110_JOHN_DINGELL
     opencongwiki: John_Dingell
+    beta_name: john-dingell
   name:
     first: John
     middle: D.
@@ -10862,6 +11005,7 @@
     maplight_name: Lloyd Doggett
     opencong: 400111_LLOYD_DOGGETT
     opencongwiki: Lloyd_Doggett
+    beta_name: lloyd-doggett
   name:
     first: Lloyd
     middle: A.
@@ -10967,6 +11111,7 @@
     maplight_name: Joseph S Donnelly
     opencong: '412205'
     opencongwiki: Joe_Donnelly
+    beta_name: joe-donnelly
   name:
     nickname: Joe
     first: Joseph
@@ -11032,6 +11177,7 @@
     maplight_name: Michael Doyle
     opencong: 400114_MICHAEL_DOYLE
     opencongwiki: Michael_Doyle
+    beta_name: mike-doyle
   name:
     first: Michael
     middle: F.
@@ -11137,6 +11283,7 @@
     maplight_name: Sean Duffy
     opencong: '412488'
     opencongwiki: Sean_Duffy
+    beta_name: sean-duffy
   name:
     first: Sean
     last: Duffy
@@ -11183,6 +11330,7 @@
     maplight_name: Jeff Duncan
     opencong: '412472'
     opencongwiki: Jeff_Duncan
+    beta_name: jeff-duncan
   name:
     first: Jeff
     last: Duncan
@@ -11230,6 +11378,7 @@
     maplight_name: John Duncan
     opencong: 400116_JOHN_DUNCAN
     opencongwiki: John_Duncan
+    beta_name: john-duncan
   name:
     first: John
     middle: J.
@@ -11358,6 +11507,7 @@
     maplight_name: Donna Edwards
     opencong: 412263_DONNA_EDWARDS
     opencongwiki: Donna_Edwards
+    beta_name: donna-edwards
   name:
     first: Donna
     middle: F.
@@ -11422,6 +11572,7 @@
     maplight_name: Keith Ellison
     opencong: 412215_KEITH_ELLISON
     opencongwiki: Keith_Ellison
+    beta_name: keith-ellison
   name:
     first: Keith
     middle: Maurice
@@ -11486,6 +11637,7 @@
     maplight_name: Renee Jacisin Ellmers
     opencong: '412457'
     opencongwiki: Renee_Ellmers
+    beta_name: renee-ellmers
   name:
     first: Renee
     last: Ellmers
@@ -11534,6 +11686,7 @@
     maplight_name: Eliot Engel
     opencong: 400122_ELIOT_ENGEL
     opencongwiki: Eliot_Engel
+    beta_name: eliot-engel
   name:
     first: Eliot
     middle: L.
@@ -11653,6 +11806,7 @@
     maplight_name: Anna Eshoo
     opencong: 400124_ANNA_ESHOO
     opencongwiki: Anna_Eshoo
+    beta_name: anna-eshoo
   name:
     first: Anna
     middle: G.
@@ -11761,6 +11915,7 @@
     maplight_name: Eni Faleomavaega
     opencong: 400128
     opencongwiki: Eni_Faleomavaega
+    beta_name: eni-faleomavaega
   name:
     first: Eni
     middle: F. H.
@@ -11881,6 +12036,7 @@
     maplight_name: Randolph Blake Farenthold
     opencong: '412482'
     opencongwiki: Blake_Farenthold
+    beta_name: blake-farenthold
   name:
     first: Randolph
     middle: Blake
@@ -11928,6 +12084,7 @@
     maplight_name: Sam Farr
     opencong: 400129_SAM_FARR
     opencongwiki: Sam_Farr
+    beta_name: sam-farr
   name:
     first: Sam
     last: Farr
@@ -12036,6 +12193,7 @@
     maplight_name: Chaka Fattah
     opencong: 400130_CHAKA_FATTAH
     opencongwiki: Chaka_Fattah
+    beta_name: chaka-fattah
   name:
     first: Chaka
     last: Fattah
@@ -12137,6 +12295,7 @@
     maplight_name: Steve Fincher
     opencong: 412479_STEPHEN_FINCHER
     opencongwiki: Stephen_Fincher
+    beta_name: stephen-fincher
   name:
     first: Stephen
     last: Fincher
@@ -12184,6 +12343,7 @@
     maplight_name: Michael G. Fitzpatrick
     opencong: 400646_MICHAEL_FITZPATRICK
     opencongwiki: Michael_Fitzpatrick
+    beta_name: michael-fitzpatrick
   name:
     first: Michael
     middle: G.
@@ -12240,6 +12400,7 @@
     maplight_name: Jeff Flake
     opencong: '400134'
     opencongwiki: Jeff_Flake
+    beta_name: jeff-flake
   name:
     first: Jeff
     last: Flake
@@ -12323,6 +12484,7 @@
     maplight_name: Charles J Fleischmann
     opencong: 412476_CHUCK_FLEISCHMANN
     opencongwiki: Charles_Fleischmann
+    beta_name: charles-fleischmann
   name:
     first: Charles
     last: Fleischmann
@@ -12372,6 +12534,7 @@
     maplight_name: Mr. John C Fleming Jr.
     opencong: 412275_JOHN_FLEMING
     opencongwiki: John_Fleming
+    beta_name: john-fleming
   name:
     first: John
     middle: C.
@@ -12429,6 +12592,7 @@
     maplight_name: Bill Flores
     opencong: 412480_BILL_FLORES
     opencongwiki: Bill_Flores
+    beta_name: bill-flores
   name:
     nickname: Bill
     first: William
@@ -12477,6 +12641,7 @@
     maplight_name: J. Forbes
     opencong: 400137_JAMES_FORBES
     opencongwiki: Error
+    beta_name: j-forbes
   name:
     first: J.
     middle: Randy
@@ -12562,6 +12727,7 @@
     maplight_name: Jeffrey Fortenberry
     opencong: '400640'
     opencongwiki: Jeff_Fortenberry
+    beta_name: jeff-fortenberry
   name:
     first: Jeff
     middle: Lane
@@ -12632,6 +12798,7 @@
     maplight_name: Virginia Foxx
     opencong: 400643_VIRGINIA_FOXX
     opencongwiki: Virginia_Foxx
+    beta_name: virginia-foxx
   name:
     first: Virginia
     last: Foxx
@@ -12702,6 +12869,7 @@
     maplight_name: Trent Franks
     opencong: '400141'
     opencongwiki: Trent_Franks
+    beta_name: trent-franks
   name:
     first: Trent
     last: Franks
@@ -12779,6 +12947,7 @@
     maplight_name: Rodney Frelinghuysen
     opencong: 400142_RODNEY_FRELINGHUYSE
     opencongwiki: Rodney_Frelinghuysen
+    beta_name: rodney-frelinghuysen
   name:
     first: Rodney
     middle: P.
@@ -12881,6 +13050,7 @@
     maplight_name: Marcia L Fudge
     opencong: 412327_MARCIA_FUDGE
     opencongwiki: Marcia_Fudge
+    beta_name: marcia-fudge
   name:
     first: Marcia
     last: Fudge
@@ -12944,6 +13114,7 @@
     maplight_name: John Garamendi
     opencong: 412382_JOHN_GARAMENDI
     opencongwiki: John_Garamendi
+    beta_name: john-garamendi
   name:
     first: John
     last: Garamendi
@@ -13000,6 +13171,7 @@
     maplight_name: Cory Gardner
     opencong: 412406_CORY_GARDNER
     opencongwiki: Cory_Gardner
+    beta_name: cory-gardner
   name:
     first: Cory
     last: Gardner
@@ -13045,6 +13217,7 @@
     maplight_name: Scott Garrett
     opencong: 400145_SCOTT_GARRETT
     opencongwiki: Scott_Garrett
+    beta_name: scott-garrett
   name:
     first: Scott
     last: Garrett
@@ -13122,6 +13295,7 @@
     maplight_name: Jim Gerlach
     opencong: 400147_JIM_GERLACH
     opencongwiki: Jim_Gerlach
+    beta_name: jim-gerlach
   name:
     first: Jim
     last: Gerlach
@@ -13200,6 +13374,7 @@
     maplight_name: Robert Gibbs
     opencong: 412463_BOB_GIBBS
     opencongwiki: Bob_Gibbs
+    beta_name: bob-gibbs
   name:
     nickname: Bob
     first: Robert
@@ -13247,6 +13422,7 @@
     maplight_name: Chris P Gibson
     opencong: 412453_CHRIS_GIBSON
     opencongwiki: Christopher_Gibson
+    beta_name: christopher-gibson
   name:
     first: Christopher
     middle: P.
@@ -13295,6 +13471,7 @@
     maplight_name: John Gingrey
     opencong: 400151_JOHN_GINGREY
     opencongwiki: Phil_Gingrey
+    beta_name: phil-gingrey
   name:
     first: John
     middle: Phillip
@@ -13375,6 +13552,7 @@
     maplight_name: Louis Gohmert
     opencong: '400651'
     opencongwiki: Louie_Gohmert
+    beta_name: louie-gohmert
   name:
     first: Louie
     middle: B.
@@ -13447,6 +13625,7 @@
     maplight_name: Robert Goodlatte
     opencong: 400154_ROBERT_GOODLATTE
     opencongwiki: Bob_Goodlatte
+    beta_name: robert-goodlatte
   name:
     nickname: Bob
     first: Robert
@@ -13557,6 +13736,7 @@
     maplight_name: Paul Anthony Gosar
     opencong: '412397'
     opencongwiki: Paul_Gosar
+    beta_name: paul-gosar
   name:
     first: Paul
     last: Gosar
@@ -13605,6 +13785,7 @@
     maplight_name: Trey Gowdy
     opencong: '412473'
     opencongwiki: Trey_Gowdy
+    beta_name: trey-gowdy
   name:
     first: Trey
     last: Gowdy
@@ -13651,6 +13832,7 @@
     maplight_name: Kay Granger
     opencong: 400157_KAY_GRANGER
     opencongwiki: Kay_Granger
+    beta_name: kay-granger
   name:
     first: Kay
     last: Granger
@@ -13749,6 +13931,7 @@
     maplight_name: Charles Grassley
     opencong: 300048_CHARLES_GRASSLEY
     opencongwiki: Charles_Grassley
+    beta_name: charles-grassley
   name:
     first: Charles
     middle: E.
@@ -13838,6 +14021,7 @@
     maplight_name: Samuel Graves
     opencong: 400158_SAMUEL_GRAVES
     opencongwiki: Sam_Graves
+    beta_name: sam-graves
   name:
     first: Sam
     middle: B.
@@ -13923,6 +14107,7 @@
     maplight_name: Mr. John Thomas Graves Jr.
     opencong: 412388_TOM_GRAVES
     opencongwiki: Error
+    beta_name: tom-graves
   name:
     first: John
     middle: Thomas
@@ -13982,6 +14167,7 @@
     maplight_name: Al Green
     opencong: 400653_AL_GREEN
     opencongwiki: Al_Green
+    beta_name: al-green
   name:
     first: Al
     last: Green
@@ -14051,6 +14237,7 @@
     maplight_name: Raymond Green
     opencong: 400160_RAYMOND_GREEN
     opencongwiki: Gene_Green
+    beta_name: gene-green
   name:
     first: Gene
     middle: Eugene
@@ -14160,6 +14347,7 @@
     maplight_name: John Timothy Griffin
     opencong: '412401'
     opencongwiki: Tim_Griffin
+    beta_name: tim-griffin
   name:
     first: John
     nickname: Tim
@@ -14209,6 +14397,7 @@
     maplight_name: H Morgan Griffith
     opencong: 412485_H_GRIFFITH
     opencongwiki: Error
+    beta_name: h-griffith
   name:
     first: H.
     middle: Morgan
@@ -14256,6 +14445,7 @@
     maplight: 4265
     maplight_name: Raul Grijalva
     opencongwiki: Error
+    beta_name: raul-grijalva
   name:
     first: Raúl
     middle: M.
@@ -14334,6 +14524,7 @@
     maplight_name: Michael Grimm
     opencong: 412451_MICHAEL_GRIMM
     opencongwiki: Michael_Grimm
+    beta_name: michael-grimm
   name:
     first: Michael
     middle: G.
@@ -14382,6 +14573,7 @@
     maplight_name: Hon. S. Brett Guthrie
     opencong: 412278_BRETT_GUTHRIE
     opencongwiki: Brett_Guthrie
+    beta_name: brett-guthrie
   name:
     prefix: Hon.
     first: S.
@@ -14440,6 +14632,7 @@
     maplight_name: Luis Gutiérrez
     opencong: '400163'
     opencongwiki: Luis_Gutierrez
+    beta_name: luis-gutierrez
   name:
     first: Luis
     middle: V.
@@ -14550,6 +14743,7 @@
     maplight_name: Ralph Hall
     opencong: 400165_RALPH_HALL
     opencongwiki: Ralph_Hall
+    beta_name: ralph-hall
   name:
     first: Ralph
     middle: M.
@@ -14696,6 +14890,7 @@
     maplight_name: Colleen Wakako Hanabusa
     opencong: 412418_COLLEEN_HANABUSA
     opencongwiki: Colleen_Hanabusa
+    beta_name: colleen-hanabusa
   name:
     first: Colleen
     last: Hanabusa
@@ -14743,6 +14938,7 @@
     maplight_name: Richard Hanna
     opencong: 412454_RICHARD_HANNA
     opencongwiki: Richard_Hanna
+    beta_name: richard-hanna
   name:
     first: Richard
     last: Hanna
@@ -14790,6 +14986,7 @@
     maplight_name: Gregg Harper
     opencong: 412280_GREGG_HARPER
     opencongwiki: Gregg_Harper
+    beta_name: gregg-harper
   name:
     first: Gregg
     last: Harper
@@ -14845,6 +15042,7 @@
     maplight_name: Andrew P Harris
     opencong: 412434_ANDY_HARRIS
     opencongwiki: Andy_Harris
+    beta_name: andy-harris
   name:
     first: Andrew
     middle: P.
@@ -14894,6 +15092,7 @@
     maplight_name: Vicky Hartzler
     opencong: '412444'
     opencongwiki: Vicky_Hartzler
+    beta_name: vicky-hartzler
   name:
     first: Vicky
     last: Hartzler
@@ -14941,6 +15140,7 @@
     maplight_name: Alcee Hastings
     opencong: 400170_ALCEE_HASTINGS
     opencongwiki: Alcee_Hastings
+    beta_name: alcee-hastings
   name:
     first: Alcee
     middle: L.
@@ -15049,6 +15249,7 @@
     maplight_name: Doc Hastings
     opencong: 400171_DOC_HASTINGS
     opencongwiki: Doc_Hastings
+    beta_name: doc-hastings
   name:
     first: Doc
     last: Hastings
@@ -15150,6 +15351,7 @@
     maplight_name: Joe Heck
     opencong: '412446'
     opencongwiki: Error
+    beta_name: joseph-heck
   name:
     first: Joseph
     last: Heck
@@ -15200,6 +15402,7 @@
     maplight_name: Martin Trevor Heinrich
     opencong: '412281'
     opencongwiki: Martin_Heinrich
+    beta_name: martin-heinrich
   name:
     first: Martin
     middle: Trevor
@@ -15257,6 +15460,7 @@
     maplight_name: Jeb Hensarling
     opencong: 400175_JEB_HENSARLING
     opencongwiki: Jeb_Hensarling
+    beta_name: jeb-hensarling
   name:
     first: Jeb
     last: Hensarling
@@ -15334,6 +15538,7 @@
     maplight_name: Jaime Herrera Beutler
     opencong: 412486_JAIME_HERRERA_BEUTLER
     opencongwiki: Jaime_Herrera Beutler
+    beta_name: jaime-herrera-beutler
   name:
     first: Jaime
     last: Herrera Beutler
@@ -15381,6 +15586,7 @@
     maplight_name: Brian Higgins
     opencong: 400641_BRIAN_HIGGINS
     opencongwiki: Brian_Higgins
+    beta_name: brian-higgins
   name:
     first: Brian
     middle: M.
@@ -15451,6 +15657,7 @@
     maplight_name: Jim Himes
     opencong: 412282_JAMES_HIMES
     opencongwiki: Error
+    beta_name: james-himes
   name:
     first: James
     middle: A.
@@ -15508,6 +15715,7 @@
     maplight_name: Rubén Hinojosa
     opencong: 400179_RUBEN_HINOJOSA
     opencongwiki: Error
+    beta_name: ruben-hinojosa
   name:
     first: Rubén
     middle: E.
@@ -15607,6 +15815,7 @@
     maplight_name: Mazie K Hirono
     opencong: 412200_MAZIE_HIRONO
     opencongwiki: Mazie_Hirono
+    beta_name: mazie-hirono
   name:
     first: Mazie
     middle: K.
@@ -15671,6 +15880,7 @@
     maplight_name: John Hoeven
     opencong: 412494_JOHN_HOEVEN
     opencongwiki: John_Hoeven
+    beta_name: john-hoeven
   name:
     first: John
     last: Hoeven
@@ -15706,6 +15916,7 @@
     maplight_name: Rush Holt
     opencong: 400184_RUSH_HOLT
     opencongwiki: Rush_Holt
+    beta_name: rush-holt
   name:
     first: Rush
     middle: D.
@@ -15796,6 +16007,7 @@
     maplight_name: Michael Honda
     opencong: 400185_MICHAEL_HONDA
     opencongwiki: Michael_Honda
+    beta_name: michael-honda
   name:
     first: Michael
     middle: M.
@@ -15883,6 +16095,7 @@
     maplight_name: Steny Hoyer
     opencong: 400189_STENY_HOYER
     opencongwiki: Steny_Hoyer
+    beta_name: steny-hoyer
   name:
     first: Steny
     middle: H.
@@ -16028,6 +16241,7 @@
     maplight_name: Timothy A Representa Huelskamp
     opencong: 412429_TIM_HUELSKAMP
     opencongwiki: Tim_Huelskamp
+    beta_name: tim-huelskamp
   name:
     first: Timothy
     middle: Alan Representa
@@ -16077,6 +16291,7 @@
     maplight_name: William P Huizenga
     opencong: 412437_BILL_HUIZENGA
     opencongwiki: Bill_Huizenga
+    beta_name: bill-huizenga
   name:
     nickname: Bill
     first: William
@@ -16126,6 +16341,7 @@
     maplight_name: Randy Hultgren
     opencong: '412422'
     opencongwiki: Randy_Hultgren
+    beta_name: randy-hultgren
   name:
     first: Randy
     last: Hultgren
@@ -16172,6 +16388,7 @@
     maplight_name: Duncan D. Hunter
     opencong: 412283_DUNCAN_HUNTER
     opencongwiki: Duncan_Hunter
+    beta_name: duncan-hunter
   name:
     first: Duncan
     middle: D.
@@ -16229,6 +16446,7 @@
     maplight_name: Robert Hurt
     opencong: 412484_ROBERT_HURT
     opencongwiki: Robert_Hurt
+    beta_name: robert-hurt
   name:
     first: Robert
     last: Hurt
@@ -16278,6 +16496,7 @@
     maplight_name: John Isakson
     opencong: 400194_JOHN_ISAKSON
     opencongwiki: John_Isakson
+    beta_name: johnny-isakson
   name:
     first: John
     middle: H.
@@ -16344,6 +16563,7 @@
     maplight_name: Steve Israel
     opencong: 400195_STEVE_ISRAEL
     opencongwiki: Steve_Israel
+    beta_name: steve-israel
   name:
     first: Steve
     middle: J.
@@ -16430,6 +16650,7 @@
     maplight_name: Darrell Issa
     opencong: '400196'
     opencongwiki: Darrell_Issa
+    beta_name: darrell-issa
   name:
     first: Darrell
     last: Issa
@@ -16513,6 +16734,7 @@
     maplight_name: Sheila Jackson-lee
     opencong: 400199_SHEILA_JACKSON_LEE
     opencongwiki: Sheila_Jackson Lee
+    beta_name: sheila-jackson-lee
   name:
     first: Sheila
     last: Jackson-Lee
@@ -16615,6 +16837,7 @@
     maplight_name: Lynn Jenkins
     opencong: 412284_LYNN_JENKINS
     opencongwiki: Lynn_Jenkins
+    beta_name: lynn-jenkins
   name:
     first: Lynn
     last: Jenkins
@@ -16671,6 +16894,7 @@
     maplight_name: Bill Johnson
     opencong: 412460_BILL_JOHNSON
     opencongwiki: Bill_Johnson
+    beta_name: bill-johnson
   name:
     nickname: Bill
     first: William
@@ -16718,6 +16942,7 @@
     maplight_name: Eddie Johnson
     opencong: 400204_EDDIE_JOHNSON
     opencongwiki: Eddie_Johnson
+    beta_name: eddie-johnson
   name:
     first: Eddie
     middle: Bernice
@@ -16827,6 +17052,7 @@
     maplight_name: Henry Johnson
     opencong: 412199_HENRY_JOHNSON
     opencongwiki: Henry_Johnson
+    beta_name: henry-johnson
   name:
     first: Henry
     middle: C.
@@ -16893,6 +17119,7 @@
     maplight_name: Ronald Harold Johnson
     opencong: '412496'
     opencongwiki: Ron_Johnson
+    beta_name: ron-johnson
   name:
     first: Ronald
     middle: Harold
@@ -16930,6 +17157,7 @@
     maplight_name: Samuel Johnson
     opencong: 400206_SAMUEL_JOHNSON
     opencongwiki: Sam_Johnson
+    beta_name: sam-johnson
   name:
     first: Sam
     middle: Robert
@@ -17045,6 +17273,7 @@
     maplight_name: Walter Jones
     opencong: 400209_WALTER_JONES
     opencongwiki: Walter_Jones
+    beta_name: walter-jones
   name:
     first: Walter
     middle: B.
@@ -17149,6 +17378,7 @@
     maplight_name: Jim Jordan
     opencong: 412226_JIM_JORDAN
     opencongwiki: Jim_Jordan
+    beta_name: jim-jordan
   name:
     first: Jim
     last: Jordan
@@ -17212,6 +17442,7 @@
     maplight_name: Marcy Kaptur
     opencong: 400211_MARCY_KAPTUR
     opencongwiki: Marcy_Kaptur
+    beta_name: marcy-kaptur
   name:
     first: Marcy
     last: Kaptur
@@ -17349,6 +17580,7 @@
     maplight_name: William Richard Keating
     opencong: 412435_WILLIAM_KEATING
     opencongwiki: William_Keating
+    beta_name: william-keating
   name:
     first: William
     last: Keating
@@ -17397,6 +17629,7 @@
     maplight_name: Mike Kelly
     opencong: 412465_MIKE_KELLY
     opencongwiki: Mike_Kelly
+    beta_name: mike-kelly
   name:
     first: Michael
     nickname: Mike
@@ -17445,6 +17678,7 @@
     maplight_name: Ronald Kind
     opencong: '400218'
     opencongwiki: Ron_Kind
+    beta_name: ron-kind
   name:
     first: Ronald
     nickname: Ron
@@ -17543,6 +17777,7 @@
     maplight_name: Peter King
     opencong: '400219'
     opencongwiki: Peter_King
+    beta_name: peter-king
   name:
     first: Peter
     middle: T.
@@ -17653,6 +17888,7 @@
     maplight_name: Steve King
     opencong: 400220_STEVE_KING
     opencongwiki: Steve_King
+    beta_name: steve-king
   name:
     first: Steve
     middle: A.
@@ -17732,6 +17968,7 @@
     maplight_name: Jack Kingston
     opencong: 400221_JACK_KINGSTON
     opencongwiki: Jack_Kingston
+    beta_name: jack-kingston
   name:
     first: Jack
     last: Kingston
@@ -17840,6 +18077,7 @@
     maplight_name: Adam Kinzinger
     opencong: '412421'
     opencongwiki: Adam_Kinzinger
+    beta_name: adam-kinzinger
   name:
     first: Adam
     last: Kinzinger
@@ -17889,6 +18127,7 @@
     maplight_name: Mark Steven Kirk
     opencong: '400222'
     opencongwiki: Mark_Kirk
+    beta_name: mark-kirk
   name:
     first: Mark
     middle: Steven
@@ -17966,6 +18205,7 @@
     maplight_name: John Kline
     opencong: 400224_JOHN_KLINE
     opencongwiki: John_Kline
+    beta_name: john-kline
   name:
     first: John
     middle: Paul
@@ -18045,6 +18285,7 @@
     maplight_name: Raul Labrador
     opencong: '412419'
     opencongwiki: Error
+    beta_name: raul-labrador
   name:
     first: Raúl
     last: Labrador
@@ -18093,6 +18334,7 @@
     maplight_name: Doug Lamborn
     opencong: 412191_DOUG_LAMBORN
     opencongwiki: Doug_Lamborn
+    beta_name: doug-lamborn
   name:
     first: Doug
     last: Lamborn
@@ -18156,6 +18398,7 @@
     maplight_name: Leonard Lance
     opencong: 412290_LEONARD_LANCE
     opencongwiki: Leonard_Lance
+    beta_name: leonard-lance
   name:
     first: Leonard
     last: Lance
@@ -18212,6 +18455,7 @@
     maplight_name: James Langevin
     opencong: '400230'
     opencongwiki: James_Langevin
+    beta_name: james-langevin
   name:
     first: James
     middle: R.
@@ -18297,6 +18541,7 @@
     maplight_name: James Paul Lankford
     opencong: '412464'
     opencongwiki: James_Lankford
+    beta_name: james-lankford
   name:
     first: James
     middle: Paul
@@ -18344,6 +18589,7 @@
     maplight_name: Rick Larsen
     opencong: 400232_RICK_LARSEN
     opencongwiki: Rick_Larsen
+    beta_name: rick-larsen
   name:
     first: Rick
     last: Larsen
@@ -18427,6 +18673,7 @@
     maplight_name: John Larson
     opencong: 400233_JOHN_LARSON
     opencongwiki: John_Larson
+    beta_name: john-larson
   name:
     first: John
     middle: B.
@@ -18517,6 +18764,7 @@
     maplight_name: Thomas Latham
     opencong: '400234'
     opencongwiki: Tom_Latham
+    beta_name: tom-latham
   name:
     first: Tom
     middle: P.
@@ -18620,6 +18868,7 @@
     maplight_name: Mr Robert Edward Latta
     opencong: 412256_ROBERT_LATTA
     opencongwiki: Robert_Latta
+    beta_name: robert-latta
   name:
     first: Robert
     middle: E.
@@ -18685,6 +18934,7 @@
     maplight_name: Patrick Leahy
     opencong: 300065_PATRICK_LEAHY
     opencongwiki: Patrick_Leahy
+    beta_name: patrick-leahy
   name:
     first: Patrick
     middle: J.
@@ -18761,6 +19011,7 @@
     maplight_name: Barbara Lee
     opencong: 400237_BARBARA_LEE
     opencongwiki: Barbara_Lee
+    beta_name: barbara-lee
   name:
     first: Barbara
     last: Lee
@@ -18857,6 +19108,7 @@
     maplight_name: Mike Lee
     opencong: '412495'
     opencongwiki: Mike_Lee
+    beta_name: mike-lee
   name:
     first: Michael
     nickname: Mike
@@ -18895,6 +19147,7 @@
     maplight_name: Sander Levin
     opencong: 400238_SANDER_LEVIN
     opencongwiki: Sander_Levin
+    beta_name: sander-levin
   name:
     first: Sander
     middle: M.
@@ -19035,6 +19288,7 @@
     maplight_name: John Lewis
     opencong: 400240_JOHN_LEWIS
     opencongwiki: John_Lewis
+    beta_name: john-lewis
   name:
     first: John
     middle: R.
@@ -19162,6 +19416,7 @@
     maplight_name: Daniel Lipinski
     opencong: '400630'
     opencongwiki: Daniel_Lipinski
+    beta_name: daniel-lipinski
   name:
     first: Daniel
     middle: William
@@ -19232,6 +19487,7 @@
     maplight_name: Frank Lobiondo
     opencong: 400244_FRANK_LOBIONDO
     opencongwiki: Frank_LoBiondo
+    beta_name: frank-lobiondo
   name:
     first: Frank
     middle: A.
@@ -19335,6 +19591,7 @@
     maplight_name: David Loebsack
     opencong: '412209'
     opencongwiki: David_Loebsack
+    beta_name: david-loebsack
   name:
     first: David
     last: Loebsack
@@ -19398,6 +19655,7 @@
     maplight_name: Zoe Lofgren
     opencong: 400245_ZOE_LOFGREN
     opencongwiki: Zoe_Lofgren
+    beta_name: zoe-lofgren
   name:
     first: Zoe
     last: Lofgren
@@ -19499,6 +19757,7 @@
     maplight_name: Billy Long
     opencong: 412445_BILLY_LONG
     opencongwiki: Billy_Long
+    beta_name: billy-long
   name:
     first: William
     nickname: Billy
@@ -19548,6 +19807,7 @@
     maplight_name: Nita Lowey
     opencong: 400246_NITA_LOWEY
     opencongwiki: Nita_Lowey
+    beta_name: nita-lowey
   name:
     first: Nita
     middle: M.
@@ -19669,6 +19929,7 @@
     maplight_name: Frank Lucas
     opencong: '400247'
     opencongwiki: Frank_Lucas
+    beta_name: frank-lucas
   name:
     first: Frank
     middle: D.
@@ -19777,6 +20038,7 @@
     maplight_name: W Blaine Luetkemeyer
     opencong: 412292_BLAINE_LUETKEMEYER
     opencongwiki: Blaine_Luetkemeyer
+    beta_name: blaine-luetkemeyer
   name:
     first: W.
     middle: Blaine
@@ -19833,6 +20095,7 @@
     maplight_name: Ben Lujan
     opencong: 412293 Ben Lujan
     opencongwiki: Error
+    beta_name: ben-lujan
   name:
     first: Ben
     middle: Ray
@@ -19889,6 +20152,7 @@
     maplight_name: Cynthia Marie Lummis
     opencong: 412294_CYNTHIA_LUMMIS
     opencongwiki: Cynthia_Lummis
+    beta_name: cynthia-lummis
   name:
     first: Cynthia
     middle: M.
@@ -19947,6 +20211,7 @@
     maplight_name: Stephen Lynch
     opencong: 400249_STEPHEN_LYNCH
     opencongwiki: Stephen_Lynch
+    beta_name: stephen-lynch
   name:
     first: Stephen
     middle: F.
@@ -20031,6 +20296,7 @@
     maplight_name: Carolyn Maloney
     opencong: 400251_CAROLYN_MALONEY
     opencongwiki: Carolyn_Maloney
+    beta_name: carolyn-maloney
   name:
     first: Carolyn
     middle: B.
@@ -20139,6 +20405,7 @@
     maplight_name: Kenny Marchant
     opencong: 400656_KENNY_MARCHANT
     opencongwiki: Kenny_Marchant
+    beta_name: kenny-marchant
   name:
     first: Kenny
     middle: Ewell
@@ -20210,6 +20477,7 @@
     maplight_name: Thomas Anthony Marino
     opencong: '412468'
     opencongwiki: Tom_Marino
+    beta_name: tom-marino
   name:
     first: Thomas
     middle: Anthony
@@ -20260,6 +20528,7 @@
     maplight_name: Edward Markey
     opencong: '400253'
     opencongwiki: Edward_Markey
+    beta_name: edward-markey
   name:
     first: Edward
     middle: J.
@@ -20424,6 +20693,7 @@
     maplight_name: Jim Matheson
     opencong: '400255'
     opencongwiki: Jim_Matheson
+    beta_name: jim-matheson
   name:
     first: Jim
     last: Matheson
@@ -20506,6 +20776,7 @@
     maplight_name: Doris Matsui
     opencong: 400663_DORIS_MATSUI
     opencongwiki: Doris_Matsui
+    beta_name: doris-matsui
   name:
     first: Doris
     middle: O.
@@ -20579,6 +20850,7 @@
     maplight_name: John Mccain
     opencong: 300071_JOHN_MCCAIN
     opencongwiki: John_McCain
+    beta_name: john-mccain
   name:
     first: John
     middle: S.
@@ -20655,6 +20927,7 @@
     maplight_name: Carolyn Mccarthy
     opencong: 400257_CAROLYN_MCCARTHY
     opencongwiki: Carolyn_McCarthy
+    beta_name: carolyn-mccarthy
   name:
     first: Carolyn
     last: McCarthy
@@ -20752,6 +21025,7 @@
     maplight_name: Kevin Mccarthy
     opencong: 412190_KEVIN_MCCARTHY
     opencongwiki: Kevin_McCarthy
+    beta_name: kevin-mccarthy
   name:
     first: Kevin
     last: McCarthy
@@ -20815,6 +21089,7 @@
     maplight_name: Michael Mccaul
     opencong: 400654_MICHAEL_MCCAUL
     opencongwiki: Michael_McCaul
+    beta_name: michael-mccaul
   name:
     first: Michael
     middle: T.
@@ -20885,6 +21160,7 @@
     maplight_name: Thomas Mcclintock
     opencong: 412295_TOM_MCCLINTOCK
     opencongwiki: Tom_McClintock
+    beta_name: tom-mcclintock
   name:
     first: Thomas
     middle: Miller
@@ -20944,6 +21220,7 @@
     maplight_name: Betty Mccollum
     opencong: 400259_BETTY_MCCOLLUM
     opencongwiki: Betty_McCollum
+    beta_name: betty-mccollum
   name:
     first: Betty
     middle: Louise
@@ -21029,6 +21306,7 @@
     maplight_name: James Mcdermott
     opencong: 400262_JAMES_MCDERMOTT
     opencongwiki: Jim_McDermott
+    beta_name: jim-mcdermott
   name:
     first: Jim
     middle: A.
@@ -21149,6 +21427,7 @@
     maplight_name: James Mcgovern
     opencong: 400263_JAMES_MCGOVERN
     opencongwiki: James_McGovern
+    beta_name: james-mcgovern
   name:
     first: James
     middle: P.
@@ -21247,6 +21526,7 @@
     maplight_name: Patrick Mchenry
     opencong: 400644_PATRICK_MCHENRY
     opencongwiki: Patrick_McHenry
+    beta_name: patrick-mchenry
   name:
     first: Patrick
     middle: T.
@@ -21317,6 +21597,7 @@
     maplight_name: Mike Mcintyre
     opencong: 400266_MIKE_MCINTYRE
     opencongwiki: Mike_McIntyre
+    beta_name: mike-mcintyre
   name:
     first: Michael
     nickname: Mike
@@ -21413,6 +21694,7 @@
     maplight_name: Howard Mckeon
     opencong: 400267_HOWARD_MCKEON
     opencongwiki: Howard_McKeon
+    beta_name: howard-mckeon
   name:
     first: Howard
     middle: P.
@@ -21523,6 +21805,7 @@
     maplight_name: David B. Mckinley
     opencong: 412487_DAVID_MCKINLEY
     opencongwiki: David_McKinley
+    beta_name: david-mckinley
   name:
     first: David
     last: McKinley
@@ -21571,6 +21854,7 @@
     maplight_name: Cathy Mcmorris Rodgers
     opencong: 400659_CATHY_MCMORRIS_RODGERS
     opencongwiki: Cathy_McMorris Rodgers
+    beta_name: cathy-mcmorris-rodgers
   name:
     first: Cathy
     last: McMorris Rodgers
@@ -21640,6 +21924,7 @@
     maplight_name: Jerry Mcnerney
     opencong: 412189_JERRY_MCNERNEY
     opencongwiki: Jerry_McNerney
+    beta_name: jerry-mcnerney
   name:
     first: Jerry
     last: McNerney
@@ -21703,6 +21988,7 @@
     maplight_name: Mr. Patrick L. Meehan Jr.
     opencong: 412466_PATRICK_MEEHAN
     opencongwiki: Patrick_Meehan
+    beta_name: patrick-meehan
   name:
     first: Patrick
     middle: L.
@@ -21751,6 +22037,7 @@
     maplight_name: Gregory Meeks
     opencong: 400271_GREGORY_MEEKS
     opencongwiki: Gregory_Meeks
+    beta_name: gregory-meeks
   name:
     first: Gregory
     middle: W.
@@ -21848,6 +22135,7 @@
     maplight_name: John Mica
     opencong: 400273
     opencongwiki: John_Mica
+    beta_name: john-mica
   name:
     first: John
     middle: L.
@@ -21957,6 +22245,7 @@
     maplight_name: Michael Michaud
     opencong: 400274_MICHAEL_MICHAUD
     opencongwiki: Michael_Michaud
+    beta_name: michael-michaud
   name:
     first: Michael
     middle: H.
@@ -22038,6 +22327,7 @@
     maplight_name: Barbara Mikulski
     opencong: 300073_BARBARA_MIKULSKI
     opencongwiki: Barbara_Mikulski
+    beta_name: barbara-mikulski
   name:
     first: Barbara
     middle: A.
@@ -22133,6 +22423,7 @@
     maplight_name: Candice Miller
     opencong: 400276_CANDICE_MILLER
     opencongwiki: Candice_Miller
+    beta_name: candice-miller
   name:
     first: Candice
     last: Miller
@@ -22211,6 +22502,7 @@
     maplight_name: Gary Miller
     opencong: 400277_GARY_MILLER
     opencongwiki: Gary_Miller
+    beta_name: gary-miller
   name:
     first: Gary
     middle: G.
@@ -22303,6 +22595,7 @@
     maplight_name: George Miller
     opencong: 400278_GEORGE_MILLER
     opencongwiki: George_Miller
+    beta_name: george-miller
   name:
     first: George
     last: Miller
@@ -22465,6 +22758,7 @@
     maplight_name: Jeff Miller
     opencong: 400279_JEFF_MILLER
     opencongwiki: Jeff_Miller
+    beta_name: jeff-miller
   name:
     first: Jeff
     last: Miller
@@ -22549,6 +22843,7 @@
     maplight_name: Gwen Moore
     opencong: 400661_GWEN_MOORE
     opencongwiki: Gwen_Moore
+    beta_name: gwen-moore
   name:
     first: Gwen
     last: Moore
@@ -22619,6 +22914,7 @@
     maplight_name: James Moran
     opencong: 400283_JAMES_MORAN
     opencongwiki: James_Moran
+    beta_name: james-moran
   name:
     first: James
     middle: P.
@@ -22738,6 +23034,7 @@
     maplight_name: Jerry Moran
     opencong: '400284'
     opencongwiki: Jerry_Moran
+    beta_name: jerry-moran
   name:
     first: Jerry
     last: Moran
@@ -22821,6 +23118,7 @@
     maplight_name: John Michael "Mick" Mulvaney
     opencong: '412474'
     opencongwiki: Mick_Mulvaney
+    beta_name: mick-mulvaney
   name:
     first: John
     middle: Michael
@@ -22871,6 +23169,7 @@
     maplight_name: Lisa Murkowski
     opencong: '300075'
     opencongwiki: Lisa_Murkowski
+    beta_name: lisa-murkowski
   name:
     first: Lisa
     middle: A.
@@ -22926,6 +23225,7 @@
     maplight_name: Christopher S Murphy
     opencong: 412194_CHRISTOPHER_MURPHY
     opencongwiki: Christopher_Murphy
+    beta_name: christopher-murphy
   name:
     first: Christopher
     middle: S.
@@ -22989,6 +23289,7 @@
     maplight_name: Tim Murphy
     opencong: 400285_TIM_MURPHY
     opencongwiki: Tim_Murphy
+    beta_name: tim-murphy
   name:
     first: Tim
     last: Murphy
@@ -23068,6 +23369,7 @@
     maplight_name: Patty Murray
     opencong: '300076'
     opencongwiki: Patty_Murray
+    beta_name: patty-murray
   name:
     first: Patty
     last: Murray
@@ -23125,6 +23427,7 @@
     maplight_name: Jerrold Nadler
     opencong: 400289_JERROLD_NADLER
     opencongwiki: Jerrold_Nadler
+    beta_name: jerrold-nadler
   name:
     first: Jerrold
     middle: L.
@@ -23239,6 +23542,7 @@
     maplight_name: Grace Napolitano
     opencong: 400290_GRACE_NAPOLITANO
     opencongwiki: Grace_Napolitano
+    beta_name: grace-napolitano
   name:
     first: Grace
     middle: F.
@@ -23330,6 +23634,7 @@
     maplight_name: Richard Neal
     opencong: 400291_RICHARD_NEAL
     opencongwiki: Richard_Neal
+    beta_name: richard-neal
   name:
     first: Richard
     middle: E.
@@ -23451,6 +23756,7 @@
     maplight_name: Randy Neugebauer
     opencong: 400441_RANDY_NEUGEBAUER
     opencongwiki: Randy_Neugebauer
+    beta_name: randy-neugebauer
   name:
     first: Randy
     last: Neugebauer
@@ -23529,6 +23835,7 @@
     maplight_name: Kristi Lynn Noem
     opencong: '412475'
     opencongwiki: Kristi_Noem
+    beta_name: kristi-noem
   name:
     first: Kristi
     last: Noem
@@ -23576,6 +23883,7 @@
     maplight_name: Eleanor Holmes Norton
     opencong: 400295
     opencongwiki: Eleanor_Norton
+    beta_name: eleanor-norton
   name:
     first: Eleanor
     middle: Holmes
@@ -23690,6 +23998,7 @@
     maplight_name: Richard B Nugent
     opencong: 412409_RICHARD_NUGENT
     opencongwiki: Richard_Nugent
+    beta_name: richard-nugent
   name:
     first: Richard
     last: Nugent
@@ -23737,6 +24046,7 @@
     maplight_name: Devin Nunes
     opencong: 400297_DEVIN_NUNES
     opencongwiki: Devin_Nunes
+    beta_name: devin-nunes
   name:
     first: Devin
     middle: G.
@@ -23816,6 +24126,7 @@
     maplight_name: Patrick Alan Nunnelee
     opencong: '412442'
     opencongwiki: Alan_Nunnelee
+    beta_name: alan-nunnelee
   name:
     first: Patrick
     middle: Alan
@@ -23863,6 +24174,7 @@
     maplight_name: Peter G Olson
     opencong: 412302_PETE_OLSON
     opencongwiki: Pete_Olson
+    beta_name: pete-olson
   name:
     first: Peter
     nickname: Pete
@@ -23920,6 +24232,7 @@
     maplight_name: William Owens
     opencong: 412383_WILLIAM_OWENS
     opencongwiki: William_Owens
+    beta_name: william-owens
   name:
     first: William
     middle: L.
@@ -23976,6 +24289,7 @@
     maplight_name: Steven Mccarty Palazzo
     opencong: 412443_STEVEN_PALAZZO
     opencongwiki: Steven_Palazzo
+    beta_name: steven-palazzo
   name:
     first: Steven
     last: Palazzo
@@ -24025,6 +24339,7 @@
     maplight_name: Frank Pallone
     opencong: 400308_FRANK_PALLONE
     opencongwiki: Frank_Pallone
+    beta_name: frank-pallone
   name:
     first: Frank
     middle: J.
@@ -24152,6 +24467,7 @@
     maplight_name: William Pascrell
     opencong: 400309_WILLIAM_PASCRELL
     opencongwiki: Bill_Pascrell
+    beta_name: william-pascrell
   name:
     nickname: Bill
     first: William
@@ -24251,6 +24567,7 @@
     maplight_name: Edward Pastor
     opencong: '400310'
     opencongwiki: Ed_Pastor
+    beta_name: ed-pastor
   name:
     first: Edward
     nickname: Ed
@@ -24366,6 +24683,7 @@
     maplight_name: Rand Paul
     opencong: '412492'
     opencongwiki: Rand_Paul
+    beta_name: rand-paul
   name:
     first: Rand
     last: Paul
@@ -24402,6 +24720,7 @@
     maplight_name: Erik Paulsen
     opencong: 412303_ERIK_PAULSEN
     opencongwiki: Erik_Paulsen
+    beta_name: erik-paulsen
   name:
     first: Erik
     last: Paulsen
@@ -24459,6 +24778,7 @@
     maplight_name: Steven Pearce
     opencong: 400313_STEVEN_PEARCE
     opencongwiki: Stevan_Pearce
+    beta_name: stevan-pearce
   name:
     first: Stevan
     middle: E.
@@ -24528,6 +24848,7 @@
     maplight_name: Nancy Pelosi
     opencong: '400314'
     opencongwiki: Nancy_Pelosi
+    beta_name: nancy-pelosi
   name:
     first: Nancy
     last: Pelosi
@@ -24662,6 +24983,7 @@
     maplight_name: Ed Perlmutter
     opencong: 412192_ED_PERLMUTTER
     opencongwiki: Ed_Perlmutter
+    beta_name: ed-perlmutter
   name:
     first: Ed
     last: Perlmutter
@@ -24725,6 +25047,7 @@
     maplight_name: Gary Peters
     opencong: 412305_GARY_PETERS
     opencongwiki: Gary_Peters
+    beta_name: gary-peters
   name:
     first: Gary
     middle: C.
@@ -24782,6 +25105,7 @@
     maplight_name: Collin Peterson
     opencong: 400316_COLLIN_PETERSON
     opencongwiki: Collin_Peterson
+    beta_name: collin-peterson
   name:
     first: Collin
     middle: Clark
@@ -24898,6 +25222,7 @@
     maplight_name: Thomas Petri
     opencong: '400318'
     opencongwiki: Thomas_Petri
+    beta_name: tom-petri
   name:
     first: Thomas
     middle: E.
@@ -25048,6 +25373,7 @@
     maplight: 7157
     maplight_name: Pedro R Pierluisi
     opencongwiki: Pedro_Pierluisi
+    beta_name: pedro-pierluisi
   name:
     first: Pedro
     middle: R.
@@ -25098,6 +25424,7 @@
     maplight_name: Chellie M Pingree
     opencong: 412307
     opencongwiki: Chellie_Pingree
+    beta_name: chellie-pingree
   name:
     first: Chellie
     middle: M.
@@ -25155,6 +25482,7 @@
     maplight_name: Joseph Pitts
     opencong: 400320_JOSEPH_PITTS
     opencongwiki: Joseph_Pitts
+    beta_name: joseph-pitts
   name:
     first: Joseph
     middle: R.
@@ -25252,6 +25580,7 @@
     maplight_name: Ted Poe
     opencong: '400652'
     opencongwiki: Ted_Poe
+    beta_name: ted-poe
   name:
     first: Ted
     last: Poe
@@ -25322,6 +25651,7 @@
     maplight_name: Jared Polis
     opencong: 412308_JARED_POLIS
     opencongwiki: Jared_Polis
+    beta_name: jared-polis
   name:
     first: Jared
     last: Polis
@@ -25378,6 +25708,7 @@
     maplight_name: Michael Richard Pompeo
     opencong: 412431_MIKE_POMPEO
     opencongwiki: Mike_Pompeo
+    beta_name: mike-pompeo
   name:
     first: Michael
     nickname: Mike
@@ -25429,6 +25760,7 @@
     maplight_name: Rob Portman
     opencong: 400325_ROBERT_PORTMAN
     opencongwiki: Error
+    beta_name: rob-portman
   name:
     first: Robert
     middle: J.
@@ -25512,6 +25844,7 @@
     maplight_name: Bill Posey
     opencong: 412309_BILL_POSEY
     opencongwiki: Bill_Posey
+    beta_name: bill-posey
   name:
     nickname: Bill
     first: William
@@ -25570,6 +25903,7 @@
     maplight_name: David Price
     opencong: '400326'
     opencongwiki: David_Price
+    beta_name: david-price
   name:
     first: David
     middle: E.
@@ -25691,6 +26025,7 @@
     maplight_name: Tom Price
     opencong: '400626'
     opencongwiki: Tom_Price
+    beta_name: tom-price
   name:
     first: Tom
     last: Price
@@ -25760,6 +26095,7 @@
     maplight_name: Mike Quigley
     opencong: 412331_MIKE_QUIGLEY
     opencongwiki: Mike_Quigley
+    beta_name: mike-quigley
   name:
     first: Michael
     nickname: Mike
@@ -25818,6 +26154,7 @@
     maplight_name: Nick Rahall
     opencong: '400331'
     opencongwiki: Nick_Rahall
+    beta_name: nick-rahall
   name:
     first: Nick
     middle: J.
@@ -25976,6 +26313,7 @@
     maplight_name: Charles Rangel
     opencong: 400333_CHARLES_RANGEL
     opencongwiki: Charles_Rangel
+    beta_name: charles-rangel
   name:
     first: Charles
     middle: B.
@@ -26150,6 +26488,7 @@
     maplight_name: Thomas W Reed Ii
     opencong: 412393_TOM_REED
     opencongwiki: Tom_Reed
+    beta_name: tom-reed
   name:
     first: Thomas
     nickname: Tom
@@ -26206,6 +26545,7 @@
     maplight_name: Dave Reichert
     opencong: 400660_DAVE_REICHERT
     opencongwiki: David_Reichert
+    beta_name: david-reichert
   name:
     first: David
     middle: G.
@@ -26278,6 +26618,7 @@
     maplight_name: Harry Reid
     opencong: '300082'
     opencongwiki: Harry_Reid
+    beta_name: harry-reid
   name:
     first: Harry
     middle: M.
@@ -26371,6 +26712,7 @@
     maplight_name: James B Renacci
     opencong: 412462_JIM_RENACCI
     opencongwiki: James_Renacci
+    beta_name: james-renacci
   name:
     first: James
     last: Renacci
@@ -26419,6 +26761,7 @@
     maplight_name: Reid Ribble
     opencong: '412489'
     opencongwiki: Reid_Ribble
+    beta_name: reid-ribble
   name:
     first: Reid
     last: Ribble
@@ -26467,6 +26810,7 @@
     maplight_name: Cedric L. Richmond
     opencong: 412432_CEDRIC_RICHMOND
     opencongwiki: Cedric_Richmond
+    beta_name: cedric-richmond
   name:
     first: Cedric
     last: Richmond
@@ -26514,6 +26858,7 @@
     maplight_name: Edward Scott Rigell
     opencong: 412483_E_RIGELL
     opencongwiki: Error
+    beta_name: e-rigell
   name:
     first: E.
     middle: Scott
@@ -26562,6 +26907,7 @@
     maplight_name: Martha Roby
     opencong: '412394'
     opencongwiki: Martha_Roby
+    beta_name: martha-roby
   name:
     first: Martha
     last: Roby
@@ -26608,6 +26954,7 @@
     maplight_name: Dr. David Phillip Roe
     opencong: 412310_PHIL_ROE
     opencongwiki: David_Roe
+    beta_name: david-roe
   name:
     first: David
     middle: P.
@@ -26665,6 +27012,7 @@
     maplight_name: Harold Rogers
     opencong: 400340_HAROLD_ROGERS
     opencongwiki: Harold_Rogers
+    beta_name: harold-rogers
   name:
     first: Harold
     last: Rogers
@@ -26810,6 +27158,7 @@
     maplight_name: Michael Rogers
     opencong: '400342'
     opencongwiki: Mike_Rogers
+    beta_name: mike-rogers
   name:
     first: Michael
     nickname: Mike
@@ -26894,6 +27243,7 @@
     maplight_name: Michael Rogers
     opencong: '400341'
     opencongwiki: Mike_Rogers
+    beta_name: mike-rogers
   name:
     first: Michael
     nickname: Mike
@@ -26972,6 +27322,7 @@
     maplight_name: Dana Rohrabacher
     opencong: 400343_DANA_ROHRABACHER
     opencongwiki: Dana_Rohrabacher
+    beta_name: dana-rohrabacher
   name:
     first: Dana
     middle: T.
@@ -27093,6 +27444,7 @@
     maplight_name: Theodore Edward Rokita
     opencong: '412426'
     opencongwiki: Todd_Rokita
+    beta_name: todd-rokita
   name:
     first: Theodore
     middle: Edward
@@ -27140,6 +27492,7 @@
     maplight_name: Tom Rooney
     opencong: 412311_THOMAS_ROONEY
     opencongwiki: Error
+    beta_name: thomas-rooney
   name:
     first: Thomas
     middle: J.
@@ -27199,6 +27552,7 @@
     maplight_name: Ileana Ros-lehtinen
     opencong: 400344_ILEANA_ROS_LEHTINEN
     opencongwiki: Ileana_Ros-Lehtinen
+    beta_name: ileana-ros-lehtinen
   name:
     first: Ileana
     last: Ros-Lehtinen
@@ -27320,6 +27674,7 @@
     maplight_name: Peter Roskam
     opencong: '412202'
     opencongwiki: Peter_Roskam
+    beta_name: peter-roskam
   name:
     first: Peter
     middle: J.
@@ -27384,6 +27739,7 @@
     maplight_name: Dennis Alan Ross
     opencong: 412411_DENNIS_ROSS
     opencongwiki: Dennis_Ross
+    beta_name: dennis-ross
   name:
     first: Dennis
     last: Ross
@@ -27431,6 +27787,7 @@
     maplight_name: Lucille Roybal-allard
     opencong: 400347_LUCILLE_ROYBAL_ALLARD
     opencongwiki: Lucille_Roybal-Allard
+    beta_name: lucille-roybal-allard
   name:
     first: Lucille
     last: Roybal-Allard
@@ -27538,6 +27895,7 @@
     maplight_name: Edward Royce
     opencong: 400348_EDWARD_ROYCE
     opencongwiki: Edward_Royce
+    beta_name: ed-royce
   name:
     first: Edward
     middle: R.
@@ -27648,6 +28006,7 @@
     maplight_name: Marco Rubio
     opencong: '412491'
     opencongwiki: Marco_Rubio
+    beta_name: marco-rubio
   name:
     first: Marco
     last: Rubio
@@ -27685,6 +28044,7 @@
     maplight_name: Jon Runyan
     opencong: 412449_JON_RUNYAN
     opencongwiki: Jon_Runyan
+    beta_name: jon-runyan
   name:
     first: Jon
     last: Runyan
@@ -27731,6 +28091,7 @@
     maplight_name: C. A. Ruppersberger
     opencong: 400349_C_A_RUPPERSBERGER
     opencongwiki: Error
+    beta_name: c-a-ruppersberger
   name:
     first: C.
     middle: A. Dutch
@@ -27810,6 +28171,7 @@
     maplight_name: Bobby Rush
     opencong: 400350_BOBBY_RUSH
     opencongwiki: Bobby_Rush
+    beta_name: bobby-rush
   name:
     nickname: Bobby
     first: Robert
@@ -27920,6 +28282,7 @@
     maplight_name: Paul Ryan
     opencong: '400351'
     opencongwiki: Paul_Ryan
+    beta_name: paul-ryan
   name:
     first: Paul
     middle: D.
@@ -28011,6 +28374,7 @@
     maplight_name: Timothy Ryan
     opencong: 400352_TIMOTHY_RYAN
     opencongwiki: Tim_Ryan
+    beta_name: tim-ryan
   name:
     first: Tim
     middle: J.
@@ -28088,6 +28452,7 @@
     maplight_name: Rep. Gregorio Kilili Camacho Sablan
     opencong: 412312
     opencongwiki: Gregorio_Sablan
+    beta_name: gregorio-sablan
   name:
     first: Gregorio
     last: Sablan
@@ -28143,6 +28508,7 @@
     maplight_name: Loretta Sanchez
     opencong: 400356
     opencongwiki: Loretta_Sanchez
+    beta_name: loretta-sanchez
   name:
     first: Loretta
     middle: B.
@@ -28238,6 +28604,7 @@
     maplight_name: John Sarbanes
     opencong: 412212_JOHN_SARBANES
     opencongwiki: John_Sarbanes
+    beta_name: john-sarbanes
   name:
     first: John
     middle: P.
@@ -28301,6 +28668,7 @@
     maplight_name: Mr. Steve Scalise
     opencong: 412261_STEVE_SCALISE
     opencongwiki: Steve_Scalise
+    beta_name: steve-scalise
   name:
     first: Steve
     middle: Joseph
@@ -28364,6 +28732,7 @@
     maplight_name: Janice Schakowsky
     opencong: '400360'
     opencongwiki: Janice_Schakowsky
+    beta_name: janice-schakowsky
   name:
     first: Janice
     middle: D.
@@ -28455,6 +28824,7 @@
     maplight_name: Adam Schiff
     opencong: 400361_ADAM_SCHIFF
     opencongwiki: Adam_Schiff
+    beta_name: adam-schiff
   name:
     first: Adam
     middle: B.
@@ -28538,6 +28908,7 @@
     maplight_name: Mr. Aaron Jon Schock
     opencong: '412314'
     opencongwiki: Aaron_Schock
+    beta_name: aaron-schock
   name:
     first: Aaron
     last: Schock
@@ -28594,6 +28965,7 @@
     maplight_name: Kurt Schrader
     opencong: 412315_KURT_SCHRADER
     opencongwiki: Kurt_Schrader
+    beta_name: kurt-schrader
   name:
     first: Kurt
     last: Schrader
@@ -28652,6 +29024,7 @@
     maplight_name: Charles Schumer
     opencong: '300087'
     opencongwiki: Charles_Schumer
+    beta_name: charles-schumer
   name:
     first: Charles
     middle: E.
@@ -28759,6 +29132,7 @@
     maplight_name: Allyson Schwartz
     opencong: 400647_ALLYSON_SCHWARTZ
     opencongwiki: Allyson_Schwartz
+    beta_name: allyson-schwartz
   name:
     first: Allyson
     middle: Y.
@@ -28829,6 +29203,7 @@
     maplight_name: David Schweikert
     opencong: 412399_DAVID_SCHWEIKERT
     opencongwiki: David_Schweikert
+    beta_name: david-schweikert
   name:
     first: David
     last: Schweikert
@@ -28873,6 +29248,7 @@
     maplight_name: James Austin Scott
     opencong: 412417_AUSTIN_SCOTT
     opencongwiki: Austin_Scott
+    beta_name: austin-scott
   name:
     first: James
     middle: Austin
@@ -28920,6 +29296,7 @@
     maplight_name: David Scott
     opencong: 400363_DAVID_SCOTT
     opencongwiki: David_Scott
+    beta_name: david-scott
   name:
     first: David
     last: Scott
@@ -28997,6 +29374,7 @@
     maplight_name: Robert Scott
     opencong: 400364_ROBERT_SCOTT
     opencongwiki: Robert_Scott
+    beta_name: robert-scott
   name:
     first: Robert
     middle: C.
@@ -29108,6 +29486,7 @@
     maplight_name: Timothy E Scott
     opencong: '412471'
     opencongwiki: Tim_Scott
+    beta_name: tim-scott
   name:
     nickname: Tim
     middle: Eugene
@@ -29157,6 +29536,7 @@
     maplight_name: F. Sensenbrenner
     opencong: '400365'
     opencongwiki: Error
+    beta_name: f-sensenbrenner
   name:
     first: F.
     middle: James
@@ -29308,6 +29688,7 @@
     maplight_name: José Serrano
     opencong: 400366
     opencongwiki: Error
+    beta_name: jose-serrano
   name:
     first: José
     middle: E.
@@ -29428,6 +29809,7 @@
     maplight_name: Peter Sessions
     opencong: 400367_PETER_SESSIONS
     opencongwiki: Pete_Sessions
+    beta_name: pete-sessions
   name:
     first: Pete
     middle: A.
@@ -29524,6 +29906,7 @@
     maplight_name: Terrycina Andrea Sewell
     opencong: '412396'
     opencongwiki: Terri_Sewell
+    beta_name: terri-sewell
   name:
     first: Terri
     last: Sewell
@@ -29573,6 +29956,7 @@
     maplight_name: Richard Shelby
     opencong: '300089'
     opencongwiki: Richard_Shelby
+    beta_name: richard-shelby
   name:
     first: Richard
     middle: C.
@@ -29660,6 +30044,7 @@
     maplight_name: Brad Sherman
     opencong: 400371 Brad Sherman
     opencongwiki: Brad_Sherman
+    beta_name: brad-sherman
   name:
     first: Brad
     middle: J.
@@ -29756,6 +30141,7 @@
     maplight_name: John Shimkus
     opencong: 400373_JOHN_SHIMKUS
     opencongwiki: John_Shimkus
+    beta_name: john-shimkus
   name:
     first: John
     middle: M.
@@ -29850,6 +30236,7 @@
     maplight_name: William Shuster
     opencong: 409888_WILLIAM_SHUSTER
     opencongwiki: Bill_Shuster
+    beta_name: bill-shuster
   name:
     nickname: Bill
     first: William
@@ -29933,6 +30320,7 @@
     maplight_name: Michael Simpson
     opencong: 400376_MICHAEL_SIMPSON
     opencongwiki: Michael_Simpson
+    beta_name: michael-simpson
   name:
     first: Michael
     middle: K.
@@ -30024,6 +30412,7 @@
     maplight_name: Albio Sires
     opencong: 412186_ALBIO_SIRES
     opencongwiki: Albio_Sires
+    beta_name: albio-sires
   name:
     first: Albio
     last: Sires
@@ -30092,6 +30481,7 @@
     maplight_name: Louise Slaughter
     opencong: 400378_LOUISE_SLAUGHTER
     opencongwiki: Louise_Slaughter
+    beta_name: louise-slaughter
   name:
     first: Louise
     middle: McIntosh
@@ -30218,6 +30608,7 @@
     maplight_name: Adam Smith
     opencong: 400379 Adam Smith
     opencongwiki: Adam_Smith
+    beta_name: adam-smith
   name:
     first: Adam
     last: Smith
@@ -30313,6 +30704,7 @@
     maplight_name: Adrian Smith
     opencong: '412217'
     opencongwiki: Adrian_Smith
+    beta_name: adrian-smith
   name:
     first: Adrian
     last: Smith
@@ -30375,6 +30767,7 @@
     maplight_name: Christopher Smith
     opencong: 400380_CHRISTOPHER_SMITH
     opencongwiki: Christopher_Smith
+    beta_name: christopher-smith
   name:
     first: Christopher
     middle: H.
@@ -30521,6 +30914,7 @@
     maplight_name: Lamar Smith
     opencong: 400381_LAMAR_SMITH
     opencongwiki: Lamar_Smith
+    beta_name: lamar-smith
   name:
     first: Lamar
     middle: S.
@@ -30647,6 +31041,7 @@
     maplight_name: William Steve Southerland Ii
     opencong: 412408_STEVE_SOUTHERLAND
     opencongwiki: Steve_Southerland
+    beta_name: steve-southerland
   name:
     first: William
     middle: Steve
@@ -30694,6 +31089,7 @@
     maplight_name: Jackie Speier
     opencong: 412259_JACKIE_SPEIER
     opencongwiki: Jackie_Speier
+    beta_name: jackie-speier
   name:
     first: Jackie
     last: Speier
@@ -30756,6 +31152,7 @@
     maplight_name: Mr. Steve Stivers
     opencong: 412461_STEVE_STIVERS
     opencongwiki: Steve_Stivers
+    beta_name: steve-stivers
   name:
     first: Steve
     last: Stivers
@@ -30803,6 +31200,7 @@
     maplight_name: Marlin A Stutzman
     opencong: '412392'
     opencongwiki: Marlin_Stutzman
+    beta_name: marlin-stutzman
   name:
     first: Marlin
     middle: A.
@@ -30856,6 +31254,7 @@
     maplight_name: Linda Sánchez
     opencong: 400355
     opencongwiki: Linda_Sánchez
+    beta_name: linda-sanchez
   name:
     first: Linda
     middle: T.
@@ -30934,6 +31333,7 @@
     maplight_name: Lee Terry
     opencong: '400400'
     opencongwiki: Lee_Terry
+    beta_name: lee-terry
   name:
     first: Lee
     middle: R.
@@ -31023,6 +31423,7 @@
     maplight_name: Bennie Thompson
     opencong: 400402_BENNIE_THOMPSON
     opencongwiki: Bennie_Thompson
+    beta_name: bennie-thompson
   name:
     first: Bennie
     middle: G.
@@ -31130,6 +31531,7 @@
     maplight_name: C. Thompson
     opencong: 400403_C_THOMPSON
     opencongwiki: Mike_Thompson
+    beta_name: mike-thompson
   name:
     nickname: Mike
     first: Michael
@@ -31221,6 +31623,7 @@
     maplight_name: Glenn Thompson
     opencong: 412317_GLENN_THOMPSON
     opencongwiki: Glenn_Thompson
+    beta_name: glenn-thompson
   name:
     first: Glenn
     last: Thompson
@@ -31276,6 +31679,7 @@
     maplight_name: William Thornberry
     opencong: '400404'
     opencongwiki: Mac_Thornberry
+    beta_name: william-thornberry
   name:
     first: Mac
     middle: M.
@@ -31379,6 +31783,7 @@
     maplight_name: John Thune
     opencong: 400546_JOHN_THUNE
     opencongwiki: John_Thune
+    beta_name: john-thune
   name:
     first: John
     last: Thune
@@ -31440,6 +31845,7 @@
     maplight_name: Patrick Tiberi
     opencong: 400406_PATRICK_TIBERI
     opencongwiki: Patrick_Tiberi
+    beta_name: patrick-tiberi
   name:
     first: Patrick
     middle: J.
@@ -31524,6 +31930,7 @@
     maplight_name: John Tierney
     opencong: 400407_JOHN_TIERNEY
     opencongwiki: John_Tierney
+    beta_name: john-tierney
   name:
     first: John
     middle: F.
@@ -31619,6 +32026,7 @@
     maplight_name: Scott R. Tipton
     opencong: 412405_SCOTT_TIPTON
     opencongwiki: Scott_Tipton
+    beta_name: scott-tipton
   name:
     first: Scott
     last: Tipton
@@ -31665,6 +32073,7 @@
     maplight_name: Paul David Tonko
     opencong: 412319_PAUL_TONKO
     opencongwiki: Paul_Tonko
+    beta_name: paul-tonko
   name:
     first: Paul
     middle: David
@@ -31722,6 +32131,7 @@
     maplight_name: Patrick Joseph Toomey
     opencong: '400408'
     opencongwiki: Patrick_Toomey
+    beta_name: pat-toomey
   name:
     first: Patrick
     middle: Joseph
@@ -31778,6 +32188,7 @@
     maplight_name: Nicola S Tsongas
     opencong: 412254_NIKI_TSONGAS
     opencongwiki: Niki_Tsongas
+    beta_name: niki-tsongas
   name:
     first: Niki
     middle: S.
@@ -31842,6 +32253,7 @@
     maplight_name: Michael Turner
     opencong: 400411_MICHAEL_TURNER
     opencongwiki: Michael_Turner
+    beta_name: michael-turner
   name:
     first: Michael
     middle: R.
@@ -31921,6 +32333,7 @@
     maplight_name: Frederick Upton
     opencong: 400414_FREDERICK_UPTON
     opencongwiki: Fred_Upton
+    beta_name: fred-upton
   name:
     first: Fred
     middle: Stephen
@@ -32047,6 +32460,7 @@
     maplight_name: Christopher Van Hollen
     opencong: 400415_CHRISTOPHER_VAN_HOLLEN
     opencongwiki: Chris_Van Hollen
+    beta_name: chris-van-hollen
   name:
     nickname: Chris
     first: Christopher
@@ -32125,6 +32539,7 @@
     maplight: 4498
     maplight_name: Nydia Velázquez
     opencongwiki: Error
+    beta_name: nydia-velazquez
   name:
     first: Nydia
     middle: M.
@@ -32234,6 +32649,7 @@
     maplight_name: Peter Visclosky
     opencong: '400417'
     opencongwiki: Peter_Visclosky
+    beta_name: peter-visclosky
   name:
     first: Peter
     middle: J.
@@ -32369,6 +32785,7 @@
     maplight_name: David Vitter
     opencong: '400418'
     opencongwiki: David_Vitter
+    beta_name: david-vitter
   name:
     first: David
     last: Vitter
@@ -32432,6 +32849,7 @@
     maplight_name: Timothy Walberg
     opencong: N00026368
     opencongwiki: Tim_Walberg
+    beta_name: tim-walberg
   name:
     first: Timothy
     nickname: Tim
@@ -32486,6 +32904,7 @@
     maplight_name: Greg Walden
     opencong: '400419'
     opencongwiki: Greg_Walden
+    beta_name: greg-walden
   name:
     first: Greg
     middle: P.
@@ -32575,6 +32994,7 @@
     maplight_name: Timothy Walz
     opencong: 412214_TIMOTHY_WALZ
     opencongwiki: Timothy_Walz
+    beta_name: timothy-walz
   name:
     first: Timothy
     middle: James
@@ -32638,6 +33058,7 @@
     maplight_name: Debbie Wasserman Schultz
     opencong: '400623'
     opencongwiki: Debbie_Wasserman Schultz
+    beta_name: debbie-wasserman-schultz
   name:
     first: Debbie
     last: Wasserman Schultz
@@ -32707,6 +33128,7 @@
     maplight_name: Maxine Waters
     opencong: 400422_MAXINE_WATERS
     opencongwiki: Maxine_Waters
+    beta_name: maxine-waters
   name:
     first: Maxine
     last: Waters
@@ -32820,6 +33242,7 @@
     maplight_name: Melvin Watt
     opencong: 400424_MELVIN_WATT
     opencongwiki: Melvin_Watt
+    beta_name: melvin-watt
   name:
     first: Melvin
     middle: L.
@@ -32930,6 +33353,7 @@
     maplight_name: Henry Waxman
     opencong: '400425'
     opencongwiki: Henry_Waxman
+    beta_name: henry-waxman
   name:
     first: Henry
     middle: A.
@@ -33093,6 +33517,7 @@
     maplight_name: Daniel Webster
     opencong: 412410_DANIEL_WEBSTER
     opencongwiki: Daniel_Webster
+    beta_name: daniel-webster
   name:
     first: Daniel
     last: Webster
@@ -33140,6 +33565,7 @@
     maplight_name: Peter Welch
     opencong: '412239'
     opencongwiki: Peter_Welch
+    beta_name: peter-welch
   name:
     first: Peter
     last: Welch
@@ -33202,6 +33628,7 @@
     maplight_name: Lynn Westmoreland
     opencong: 400627_LYNN_WESTMORELAND
     opencongwiki: Lynn_Westmoreland
+    beta_name: lynn-westmoreland
   name:
     first: Lynn
     middle: A.
@@ -33271,6 +33698,7 @@
     maplight_name: Edward Whitfield
     opencong: 400431_EDWARD_WHITFIELD
     opencongwiki: Ed_Whitfield
+    beta_name: edward-whitfield
   name:
     first: Edward
     nickname: Ed
@@ -33373,6 +33801,7 @@
     maplight_name: Addison Wilson
     opencong: '400433'
     opencongwiki: Joe_Wilson
+    beta_name: joe-wilson
   name:
     first: Joe
     middle: G.
@@ -33457,6 +33886,7 @@
     maplight_name: Frederica S. Wilson
     opencong: 412412_FREDERICA_WILSON
     opencongwiki: Frederica_Wilson
+    beta_name: frederica-wilson
   name:
     first: Frederica
     last: Wilson
@@ -33504,6 +33934,7 @@
     maplight_name: Rob Wittman
     opencong: 412255_ROB_WITTMAN
     opencongwiki: Robert_Wittman
+    beta_name: robert-wittman
   name:
     first: Robert
     middle: J.
@@ -33569,6 +34000,7 @@
     maplight_name: Frank Wolf
     opencong: 400435_FRANK_WOLF
     opencongwiki: Frank_Wolf
+    beta_name: frank-wolf
   name:
     first: Frank
     middle: R.
@@ -33713,6 +34145,7 @@
     maplight_name: Steve Womack
     opencong: 412402_STEVE_WOMACK
     opencongwiki: Steve_Womack
+    beta_name: steve-womack
   name:
     first: Steve
     last: Womack
@@ -33758,6 +34191,7 @@
     maplight_name: Rob Woodall
     opencong: 412416_ROB_WOODALL
     opencongwiki: Rob_Woodall
+    beta_name: rob-woodall
   name:
     first: Rob
     last: Woodall
@@ -33807,6 +34241,7 @@
     maplight_name: Ron Wyden
     opencong: 300100_RON_WYDEN
     opencongwiki: Ron_Wyden
+    beta_name: ron-wyden
   name:
     first: Ronald
     nickname: Ron
@@ -33914,6 +34349,7 @@
     maplight_name: John Yarmuth
     opencong: 412211_JOHN_YARMUTH
     opencongwiki: John_Yarmuth
+    beta_name: john-yarmuth
   name:
     first: John
     middle: A.
@@ -33977,6 +34413,7 @@
     maplight_name: Kevin W Yoder
     opencong: 412430_KEVIN_YODER
     opencongwiki: Kevin_Yoder
+    beta_name: kevin-yoder
   name:
     first: Kevin
     middle: W.
@@ -34026,6 +34463,7 @@
     maplight_name: C. W. Young
     opencong: 400439_C_W_YOUNG
     opencongwiki: Error
+    beta_name: c-w-young
   name:
     first: C.
     middle: W. Bill
@@ -34202,6 +34640,7 @@
     maplight_name: Donald Young
     opencong: 400440_DONALD_YOUNG
     opencongwiki: Don_Young
+    beta_name: don-young
   name:
     first: Don
     middle: E.
@@ -34371,6 +34810,7 @@
     maplight_name: Todd Christopher Young
     opencong: 412428_TODD_YOUNG
     opencongwiki: Todd_Young
+    beta_name: todd-young
   name:
     first: Todd
     last: Young
@@ -34421,6 +34861,7 @@
     maplight_name: Dean Heller
     opencong: '412218'
     opencongwiki: Dean_Heller
+    beta_name: dean-heller
   name:
     first: Dean
     last: Heller
@@ -34491,6 +34932,7 @@
     maplight_name: Janice Hahn
     opencong: '412498'
     opencongwiki: Janice_Hahn
+    beta_name: janice-hahn
   name:
     first: Janice
     last: Hahn
@@ -34542,6 +34984,7 @@
     maplight_name: Mark Eugene Amodei
     opencong: 412500_MARK_AMODEI
     opencongwiki: Mark_Amodei
+    beta_name: mark-amodei
   name:
     first: Mark
     middle: E.
@@ -34592,6 +35035,7 @@
     maplight_name: Suzanne Bonamici
     opencong: 412501_SUZANNE_BONAMICI
     opencongwiki: Suzanne_Bonamici
+    beta_name: suzanne-bonamici
   name:
     first: Suzanne
     last: Bonamici
@@ -34638,6 +35082,7 @@
     maplight_name: Ronald Barber
     opencong: '412502'
     opencongwiki: Ron_Barber
+    beta_name: ron-barber
   name:
     first: Ronald
     nickname: Ron
@@ -34687,6 +35132,7 @@
     maplight_name: Suzan K Delbene
     opencong: '412505'
     opencongwiki: Suzan_DelBene
+    beta_name: suzan-delbene
   name:
     first: Suzan
     middle: K.
@@ -34731,6 +35177,7 @@
     maplight: 6430
     maplight_name: Thomas H. Massie
     opencongwiki: Thomas_Massie
+    beta_name: thomas-massie
   name:
     first: Thomas
     middle: Harold
@@ -34775,6 +35222,7 @@
     maplight_name: Donald M. Payne Jr.
     opencong: 400312
     opencongwiki: Donald_Payne
+    beta_name: donald-payne
   name:
     first: Donald
     middle: M.
@@ -34821,6 +35269,7 @@
     maplight_name: Brian Schatz
     opencong: '412507'
     opencongwiki: Error
+    beta_name: brian-schatz
   name:
     first: Brian
     middle: Emanuel
@@ -34859,6 +35308,7 @@
     maplight_name: Matt Salmon
     opencong: '400606'
     opencongwiki: Error
+    beta_name: matt-salmon
   name:
     first: Matt
     last: Salmon
@@ -34912,6 +35362,7 @@
     maplight_name: Steve Stockman
     opencong: '410396'
     opencongwiki: Error
+    beta_name: steve-stockman
   name:
     first: Steve
     last: Stockman
@@ -34952,6 +35403,7 @@
     maplight_name: Carol Shea-porter
     opencong: 412219_CAROL_SHEA_PORTER
     opencongwiki: Carol_Shea-Porter
+    beta_name: carol-shea-porter
   name:
     first: Carol
     last: Shea-Porter
@@ -35002,6 +35454,7 @@
     maplight_name: G. William "Bill" Foster
     opencong: '412257'
     opencongwiki: Bill_Foster
+    beta_name: bill-foster
   name:
     nickname: Bill
     first: G.
@@ -35053,6 +35506,7 @@
     maplight_name: Alan Mark Grayson
     opencong: '412276'
     opencongwiki: Alan_Grayson
+    beta_name: alan-grayson
   name:
     first: Alan
     middle: Mark
@@ -35096,6 +35550,7 @@
     maplight_name: Ann Kirkpatrick
     opencong: '412286'
     opencongwiki: Ann_Kirkpatrick
+    beta_name: ann-kirkpatrick
   name:
     first: Ann
     last: Kirkpatrick
@@ -35138,6 +35593,7 @@
     maplight_name: Mr. Daniel Benjamin Maffei
     opencong: 412297_DANIEL_MAFFEI
     opencongwiki: Daniel_Maffei
+    beta_name: daniel-maffei
   name:
     first: Daniel
     middle: B.
@@ -35180,6 +35636,7 @@
     maplight_name: Dina Titus
     opencong: '412318'
     opencongwiki: Dina_Titus
+    beta_name: dina-titus
   name:
     first: Dina
     last: Titus
@@ -35221,6 +35678,7 @@
     maplight_name: Thomas Cotton
     opencong: '412508'
     opencongwiki: Error
+    beta_name: tom-cotton
   name:
     first: Thomas
     nickname: Tom
@@ -35256,6 +35714,7 @@
     maplight_name: Kyrsten Sinema
     opencong: '412509'
     opencongwiki: Error
+    beta_name: kyrsten-sinema
   name:
     first: Kyrsten
     last: Sinema
@@ -35291,6 +35750,7 @@
     maplight_name: Doug Lamalfa
     opencong: '412510'
     opencongwiki: Error
+    beta_name: doug-lamalfa
   name:
     first: Doug
     last: LaMalfa
@@ -35325,6 +35785,7 @@
     maplight_name: Jared Huffman
     opencong: '412511'
     opencongwiki: Error
+    beta_name: jared-huffman
   name:
     first: Jared
     last: Huffman
@@ -35359,6 +35820,7 @@
     maplight_name: Amerish Bera
     opencong: '412512'
     opencongwiki: Error
+    beta_name: ami-bera
   name:
     first: Amerish
     nickname: Ami
@@ -35394,6 +35856,7 @@
     maplight_name: Paul Cook
     opencong: '412513'
     opencongwiki: Error
+    beta_name: paul-cook
   name:
     first: Paul
     last: Cook
@@ -35428,6 +35891,7 @@
     maplight_name: Eric Michael Swalwell
     opencong: '412514'
     opencongwiki: Error
+    beta_name: eric-swalwell
   name:
     first: Eric
     middle: Michael
@@ -35463,6 +35927,7 @@
     maplight_name: David Valadao
     opencong: '412515'
     opencongwiki: Error
+    beta_name: david-valadao
   name:
     first: David
     last: Valadao
@@ -35498,6 +35963,7 @@
     maplight_name: Julia Brownley
     opencong: '412516'
     opencongwiki: Error
+    beta_name: julia-brownley
   name:
     first: Julia
     last: Brownley
@@ -35532,6 +35998,7 @@
     maplight_name: Tony Cardenas
     opencong: '412517'
     opencongwiki: Error
+    beta_name: tony-cardenas
   name:
     first: Tony
     last: Cárdenas
@@ -35566,6 +36033,7 @@
     maplight_name: Gloria Negrete Mcleod
     opencong: '412518'
     opencongwiki: Error
+    beta_name: gloria-negrete-mcleod
   name:
     first: Gloria
     last: Negrete McLeod
@@ -35600,6 +36068,7 @@
     maplight_name: Dr Raul Ruiz
     opencong: '412519'
     opencongwiki: Error
+    beta_name: raul-ruiz
   name:
     prefix: Dr.
     first: Raul
@@ -35635,6 +36104,7 @@
     maplight_name: Mark Takano
     opencong: '412520'
     opencongwiki: Error
+    beta_name: mark-takano
   name:
     first: Mark
     last: Takano
@@ -35669,6 +36139,7 @@
     maplight_name: Alan Lowenthal
     opencong: '412521'
     opencongwiki: Error
+    beta_name: alan-lowenthal
   name:
     first: Alan
     last: Lowenthal
@@ -35704,6 +36175,7 @@
     maplight_name: Juan C. Vargas
     opencong: '412522'
     opencongwiki: Error
+    beta_name: juan-vargas
   name:
     first: Juan
     middle: C.
@@ -35739,6 +36211,7 @@
     maplight_name: Scott Peters
     opencong: '412523'
     opencongwiki: Error
+    beta_name: scott-peters
   name:
     first: Scott
     last: Peters
@@ -35774,6 +36247,7 @@
     maplight_name: Elizabeth Esty
     opencong: 412524
     opencongwiki: Error
+    beta_name: elizabeth-esty
   name:
     first: Elizabeth
     last: Esty
@@ -35809,6 +36283,7 @@
     maplight_name: Theodore Scott Yoho
     opencong: '412525'
     opencongwiki: Error
+    beta_name: ted-yoho
   name:
     first: Ted
     last: Yoho
@@ -35844,6 +36319,7 @@
     maplight_name: Ronald D Desantis
     opencong: '412526'
     opencongwiki: Error
+    beta_name: ron-desantis
   name:
     first: Ronald
     middle: D.
@@ -35880,6 +36356,7 @@
     maplight_name: Patrick Murphy
     opencong: '412527'
     opencongwiki: Patrick_Murphy
+    beta_name: patrick-murphy
   name:
     first: Patrick
     last: Murphy
@@ -35914,6 +36391,7 @@
     maplight_name: Henry J. Radel Iii
     opencong: '412528'
     opencongwiki: Error
+    beta_name: trey-radel
   name:
     first: Henry
     middle: Jude
@@ -35952,6 +36430,7 @@
     maplight_name: Lois J Frankel
     opencong: '412529'
     opencongwiki: Error
+    beta_name: lois-frankel
   name:
     first: Lois
     middle: J.
@@ -35988,6 +36467,7 @@
     maplight_name: Jose Antonio Garcia
     opencong: 412530
     opencongwiki: Joe_Garcia
+    beta_name: joe-garcia
   name:
     first: Jose
     middle: Antonio
@@ -36024,6 +36504,7 @@
     maplight_name: Douglas Allen Collins
     opencong: '412531'
     opencongwiki: Error
+    beta_name: doug-collins
   name:
     first: Douglas
     middle: Allen
@@ -36060,6 +36541,7 @@
     maplight_name: Tulsi Gabbard
     opencong: '412532'
     opencongwiki: Error
+    beta_name: tulsi-gabbard
   name:
     first: Tulsi
     last: Gabbard
@@ -36094,6 +36576,7 @@
     maplight_name: L. Tammy Duckworth
     opencong: '412533'
     opencongwiki: Tammy_Duckworth
+    beta_name: tammy-duckworth
   name:
     first: L.
     middle: Tammy
@@ -36129,6 +36612,7 @@
     maplight_name: Bradley Scott Schneider
     opencong: '412534'
     opencongwiki: Error
+    beta_name: bradley-schneider
   name:
     first: Bradley
     last: Schneider
@@ -36164,6 +36648,7 @@
     maplight_name: William L Enyart Jr
     opencong: '412535'
     opencongwiki: Error
+    beta_name: william-enyart
   name:
     first: William
     last: Enyart
@@ -36200,6 +36685,7 @@
     maplight_name: Rodney Davis
     opencong: '412536'
     opencongwiki: Error
+    beta_name: rodney-davis
   name:
     first: Rodney
     last: Davis
@@ -36234,6 +36720,7 @@
     maplight_name: Cheri Bustos
     opencong: '412537'
     opencongwiki: Error
+    beta_name: cheri-bustos
   name:
     first: Cheri
     last: Bustos
@@ -36268,6 +36755,7 @@
     maplight_name: Jackie "Swihart" Walorski
     opencong: '412538'
     opencongwiki: Error
+    beta_name: jackie-walorski
   name:
     first: Jackie
     nickname: Swihart
@@ -36304,6 +36792,7 @@
     maplight_name: Susan Brooks
     opencong: '412539'
     opencongwiki: Error
+    beta_name: susan-brooks
   name:
     first: Susan
     last: Brooks
@@ -36340,6 +36829,7 @@
     maplight_name: Allen Lucas Messer
     opencong: '412540'
     opencongwiki: Error
+    beta_name: luke-messer
   name:
     first: Allen
     middle: Lucas
@@ -36376,6 +36866,7 @@
     maplight_name: Andy Barr
     opencong: '412541'
     opencongwiki: Error
+    beta_name: andy-barr
   name:
     first: Garland
     last: Barr
@@ -36412,6 +36903,7 @@
     maplight_name: Elizabeth Warren
     opencong: '412542'
     opencongwiki: Error
+    beta_name: elizabeth-warren
   name:
     first: Elizabeth
     last: Warren
@@ -36447,6 +36939,7 @@
     maplight_name: Joseph P Kennedy Iii
     opencong: 412543
     opencongwiki: Error
+    beta_name: joseph-kennedy
   name:
     first: Joseph
     last: Kennedy
@@ -36483,6 +36976,7 @@
     maplight_name: John K Delaney
     opencong: 412544
     opencongwiki: Error
+    beta_name: john-delaney
   name:
     first: John
     last: Delaney
@@ -36519,6 +37013,7 @@
     maplight_name: Angus Stanley King Jr
     opencong: '412545'
     opencongwiki: Error
+    beta_name: angus-king
   name:
     first: Angus
     middle: Stanley
@@ -36556,6 +37051,7 @@
     maplight_name: Daniel T Kildee
     opencong: 400216
     opencongwiki: Error
+    beta_name: daniel-kildee
   name:
     first: Daniel
     last: Kildee
@@ -36591,6 +37087,7 @@
     maplight_name: Kerry Bentivolio
     opencong: 412547
     opencongwiki: Error
+    beta_name: kerry-bentivolio
   name:
     first: Kerry
     last: Bentivolio
@@ -36627,6 +37124,7 @@
     maplight: 6482
     maplight_name: Richard Michael Nolan
     opencongwiki: Error
+    beta_name: richard-nolan
   name:
     first: Richard
     middle: Michael
@@ -36680,6 +37178,7 @@
     maplight_name: Ann L Wagner
     opencong: 412548_ANN_WAGNER
     opencongwiki: Error
+    beta_name: ann-wagner
   name:
     first: Ann
     middle: L.
@@ -36716,6 +37215,7 @@
     maplight_name: Steven Daines
     opencong: '412549'
     opencongwiki: Error
+    beta_name: steve-daines
   name:
     first: Steven
     nickname: Steve
@@ -36750,6 +37250,7 @@
     maplight: 6507
     maplight_name: Richard Lane Hudson Jr
     opencongwiki: Error
+    beta_name: richard-hudson
   name:
     first: Richard
     middle: Lane
@@ -36785,6 +37286,7 @@
     maplight: 6515
     maplight_name: Robert M Pittenger
     opencongwiki: Error
+    beta_name: robert-pittenger
   name:
     first: Robert
     middle: M.
@@ -36820,6 +37322,7 @@
     maplight_name: Mark R Meadows
     opencong: '412552'
     opencongwiki: Error
+    beta_name: mark-meadows
   name:
     first: Mark
     middle: R.
@@ -36855,6 +37358,7 @@
     maplight_name: George E B Holding
     opencong: '412553'
     opencongwiki: Error
+    beta_name: george-holding
   name:
     first: George
     middle: E. B.
@@ -36892,6 +37396,7 @@
     maplight_name: Heidi Heitkamp
     opencong: '412554'
     opencongwiki: Error
+    beta_name: heidi-heitkamp
   name:
     first: Heidi
     last: Heitkamp
@@ -36928,6 +37433,7 @@
     maplight_name: Kevin Cramer
     opencong: '412555'
     opencongwiki: Error
+    beta_name: kevin-cramer
   name:
     first: Kevin
     last: Cramer
@@ -36963,6 +37469,7 @@
     maplight_name: Debra S Fischer
     opencong: '412556'
     opencongwiki: Error
+    beta_name: deb-fischer
   name:
     first: Debra
     nickname: Deb
@@ -37001,6 +37508,7 @@
     maplight_name: Ann Mclane Kuster
     opencong: '412557'
     opencongwiki: Error
+    beta_name: ann-kuster
   name:
     first: Ann
     last: Kuster
@@ -37035,6 +37543,7 @@
     maplight: 7098
     maplight_name: Michelle Lujan Grisham
     opencongwiki: Error
+    beta_name: michelle-lujan-grisham
   name:
     first: Michelle
     last: Lujan Grisham
@@ -37069,6 +37578,7 @@
     maplight: 6565
     maplight_name: Steven Alexzander Horsford
     opencongwiki: Steven_Horsford
+    beta_name: steven-horsford
   name:
     first: Steven
     last: Horsford
@@ -37104,6 +37614,7 @@
     maplight_name: Grace Meng
     opencong: '412560'
     opencongwiki: Error
+    beta_name: grace-meng
   name:
     first: Grace
     last: Meng
@@ -37138,6 +37649,7 @@
     maplight_name: Hakeem Jeffries
     opencong: 412312
     opencongwiki: Error
+    beta_name: hakeem-jeffries
   name:
     first: Hakeem
     last: Jeffries
@@ -37173,6 +37685,7 @@
     maplight_name: Sean Patrick Maloney
     opencong: '412562'
     opencongwiki: Error
+    beta_name: sean-maloney
   name:
     first: Sean
     last: Maloney
@@ -37208,6 +37721,7 @@
     maplight_name: Christopher Carl Collins
     opencong: 412563
     opencongwiki: Error
+    beta_name: chris-collins
   name:
     first: Christopher
     middle: Carl
@@ -37244,6 +37758,7 @@
     maplight_name: Brad Wenstrup
     opencong: 412564
     opencongwiki: Error
+    beta_name: brad-wenstrup
   name:
     first: Brad
     last: Wenstrup
@@ -37278,6 +37793,7 @@
     maplight_name: Joyce Beatty
     opencong: 412565
     opencongwiki: Joyce_Beatty
+    beta_name: joyce-beatty
   name:
     first: Joyce
     last: Beatty
@@ -37312,6 +37828,7 @@
     maplight_name: David P Joyce
     opencong: 412566
     opencongwiki: David_Joyce
+    beta_name: david-joyce
   name:
     first: David
     last: Joyce
@@ -37347,6 +37864,7 @@
     maplight_name: James Frederick Bridenstine
     opencong: '412567'
     opencongwiki: Error
+    beta_name: jim-bridenstine
   name:
     first: James
     middle: Frederick
@@ -37383,6 +37901,7 @@
     maplight_name: Markwayne Mullin
     opencong: '412568'
     opencongwiki: Error
+    beta_name: markwayne-mullin
   name:
     first: Markwayne
     last: Mullin
@@ -37416,6 +37935,7 @@
     maplight: 7710
     maplight_name: Scott Perry
     opencongwiki: Error
+    beta_name: scott-perry
   name:
     first: Scott
     last: Perry
@@ -37450,6 +37970,7 @@
     maplight_name: Keith Rothfus
     opencong: '412570'
     opencongwiki: Error
+    beta_name: keith-rothfus
   name:
     first: Keith
     last: Rothfus
@@ -37484,6 +38005,7 @@
     maplight: 7722
     maplight_name: Matthew A Cartwright
     opencongwiki: Error
+    beta_name: matt-cartwright
   name:
     first: Matthew
     last: Cartwright
@@ -37519,6 +38041,7 @@
     maplight_name: Tom Rice
     opencong: '412572'
     opencongwiki: Error
+    beta_name: tom-rice
   name:
     first: Tom
     last: Rice
@@ -37554,6 +38077,7 @@
     maplight_name: Rafael Edward Ted Cruz
     opencong: '412573'
     opencongwiki: Error
+    beta_name: ted-cruz
   name:
     first: Rafael
     middle: Edward
@@ -37590,6 +38114,7 @@
     maplight: 6665
     maplight_name: Randy Weber
     opencongwiki: Error
+    beta_name: randy-weber
   name:
     first: Randy
     last: Weber
@@ -37625,6 +38150,7 @@
     maplight_name: Beto O'rourke
     opencong: 412575 Beto O Rourke
     opencongwiki: Error
+    beta_name: beto-o-rourke
   name:
     first: Robert
     nickname: Beto
@@ -37660,6 +38186,7 @@
     maplight_name: Mr. Joaquin Castro
     opencong: '412576'
     opencongwiki: Error
+    beta_name: joaquin-castro
   name:
     first: Joaquin
     last: Castro
@@ -37693,6 +38220,7 @@
     maplight: 6676
     maplight_name: Pete Gallego
     opencongwiki: Error
+    beta_name: pete-gallego
   name:
     first: Pete
     last: Gallego
@@ -37728,6 +38256,7 @@
     maplight: 6692
     maplight_name: Roger Williams
     opencongwiki: Error
+    beta_name: roger-williams
   name:
     first: Roger
     last: Williams
@@ -37761,6 +38290,7 @@
     maplight: 6693
     maplight_name: Marc Allison Veasey
     opencongwiki: Error
+    beta_name: marc-veasey
   name:
     first: Marc
     last: Veasey
@@ -37796,6 +38326,7 @@
     maplight_name: Mr. Filemon Vela
     opencong: 412580
     opencongwiki: Error
+    beta_name: filemon-vela
   name:
     first: Filemon
     last: Vela
@@ -37830,6 +38361,7 @@
     maplight_name: Chris Stewart
     opencong: '412581'
     opencongwiki: Error
+    beta_name: chris-stewart
   name:
     first: Chris
     last: Stewart
@@ -37865,6 +38397,7 @@
     maplight_name: Timothy Michael Kaine
     opencong: '412582'
     opencongwiki: Error
+    beta_name: timothy-kaine
   name:
     first: Timothy
     middle: Michael
@@ -37901,6 +38434,7 @@
     maplight_name: Derek Kilmer
     opencong: '412583'
     opencongwiki: Error
+    beta_name: derek-kilmer
   name:
     first: Derek
     last: Kilmer
@@ -37935,6 +38469,7 @@
     maplight_name: Dennis Heck
     opencong: '412584'
     opencongwiki: Error
+    beta_name: denny-heck
   name:
     first: Dennis
     nickname: Denny
@@ -37970,6 +38505,7 @@
     maplight_name: Mark Pocan
     opencong: '412585'
     opencongwiki: Error
+    beta_name: mark-pocan
   name:
     first: Mark
     last: Pocan
@@ -38003,6 +38539,7 @@
     maplight_name: Mo Cowan
     opencong: '412586'
     opencongwiki: Error
+    beta_name: william-mo-cowan
   name:
     first: William
     last: Cowan
@@ -38037,6 +38574,7 @@
     cspan: 70399
     opencong: '412595'
     opencongwiki: Error
+    beta_name: robin-kelly
   name:
     first: Robin
     last: Kelly
@@ -38070,6 +38608,7 @@
     maplight_name: Marshall C Sanford Jr
     opencong: '400607'
     opencongwiki: Error
+    beta_name: mark-sanford
   name:
     first: Marshall
     middle: C.
@@ -38121,6 +38660,7 @@
     maplight_name: Jason Smith
     opencong: 412596
     opencongwiki: Error
+    beta_name: jason-smith
   name:
     first: Jason
     middle: T.
@@ -38154,6 +38694,7 @@
     maplight_name: Jeffrey Chiesa
     opencong: 412597
     opencongwiki: Error
+    beta_name: jeffrey-chiesa
   name:
     first: Jeffrey
     middle: Scott

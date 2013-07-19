@@ -1,0 +1,221 @@
+<urlopen error [Errno -2] Name or service not known> http://bernie.house.gov
+<urlopen error [Errno -2] Name or service not known> http://blunt.house.gov/
+<urlopen error [Errno -2] Name or service not known> http://chrismurphy.house.gov
+<urlopen error [Errno -2] Name or service not known> http://donnelly.house.gov
+<urlopen error [Errno -2] Name or service not known> http://donnelly.house.gov/issue_subscribe.shtml
+<urlopen error [Errno -2] Name or service not known> http://flake.house.gov
+<urlopen error [Errno -2] Name or service not known> http://gillibrand.house.gov
+<urlopen error [Errno -2] Name or service not known> http://heinrich.house.gov
+<urlopen error [Errno -2] Name or service not known> http://heller.house.gov
+<urlopen error [Errno -2] Name or service not known> http://hirono.house.gov
+<urlopen error [Errno -2] Name or service not known> http://hirono.house.gov/IMA/issue_subscribe.htm
+<urlopen error [Errno -2] Name or service not known> http://isakson.house.gov
+<urlopen error [Errno -2] Name or service not known> http://markudall.house.gov/HoR/CO02/Home.htm
+<urlopen error [Errno -2] Name or service not known> http://menendez.house.gov
+<urlopen error [Errno -2] Name or service not known> http://tammybaldwin.house.gov
+<urlopen error [Errno -2] Name or service not known> http://tomudall.house.gov
+<urlopen error [Errno -2] Name or service not known> http://vitter.house.gov
+<urlopen error [Errno -2] Name or service not known> http://www-eshoo.house.gov
+<urlopen error [Errno -2] Name or service not known> http://www.boozman.house.gov/
+<urlopen error [Errno -2] Name or service not known> http://www.house.gov/moranks01
+<urlopen error [Errno -2] Name or service not known> http://www.house.gov/tomudall
+<urlopen error [Errno -2] Name or service not known> http://www.jerrymoran.house.gov
+<urlopen error [Errno -2] Name or service not known> http://wwwc.house.gov/timbishop
+<urlopen error unknown url type: mailto> mailto:Senator_Chiesa@Chiesa.Senate.gov
+HTTP Error 400: Bad Request Http://mariodiaz-balart.house.gov//index.cfm?sectionid=11
+HTTP Error 403: Forbidden http://brooks.house.gov
+HTTP Error 403: Forbidden http://brooks.house.gov/
+HTTP Error 403: Forbidden http://daines.house.gov
+HTTP Error 403: Forbidden http://dougcollins.house.gov
+HTTP Error 403: Forbidden http://hudson.house.gov
+HTTP Error 403: Forbidden http://joyce.house.gov
+HTTP Error 403: Forbidden http://meadows.house.gov
+HTTP Error 403: Forbidden http://meehan.house.gov
+HTTP Error 403: Forbidden http://meehan.house.gov/
+HTTP Error 403: Forbidden http://timscott.house.gov/
+HTTP Error 404:  http://www.house.gov/goodlatte/emailbob.htm
+HTTP Error 404: File Not Found http://boustany.house.gov/ContactCharles.asp
+HTTP Error 404: File Not Found http://butterfield.house.gov/contactinfo.asp
+HTTP Error 404: File Not Found http://kline.house.gov/index.cfm?FuseAction=ContactInformation.ContactForm&To=mn02hwyr@housemail.house.gov&CFID=22307054&CFTOKEN=28173710
+HTTP Error 404: File Not Found http://lamborn.house.gov/ZipAuth.aspx
+HTTP Error 404: File Not Found http://www.house.gov/ebjohnson/IMA/issue_subscribe.shtml
+HTTP Error 404: File Not Found http://www.house.gov/graves/contact.shtml
+HTTP Error 404: File Not Found http://www.house.gov/gwenmoore/contact.shtml
+HTTP Error 404: File Not Found http://www.house.gov/kind/contact.shtml
+HTTP Error 404: File Not Found http://www.house.gov/mica/messageform.shtml
+HTTP Error 404: File Not Found http://www.walden.house.gov/ContactGreg.ContactFormIQ.shtml
+HTTP Error 404: Not Found Http://mariodiaz-balart.house.gov//index.cfm?sectionid=11
+HTTP Error 404: Not Found http://bachmann.house.gov/Email_zip.htm
+HTTP Error 404: Not Found http://becerra.house.gov/HoR/CA31/Hidden+Content/Email+Signup+Form.htm
+HTTP Error 404: Not Found http://bishop.house.gov/display.cfm?section_id=13
+HTTP Error 404: Not Found http://blumenauer.house.gov/index.php?option=com_email_form&Itemid=206
+HTTP Error 404: Not Found http://broun.house.gov/email.shtml
+HTTP Error 404: Not Found http://buchanan.house.gov/contact.shtml
+HTTP Error 404: Not Found http://calvert.house.gov/awenhnjafe.asp
+HTTP Error 404: Not Found http://camp.house.gov/WriteRep.aspx
+HTTP Error 404: Not Found http://campbell.house.gov/Contact/ContactForm.htm
+HTTP Error 404: Not Found http://candicemiller.house.gov/Contact.aspx
+HTTP Error 404: Not Found http://carson.house.gov/contact.me.shtml
+HTTP Error 404: Not Found http://chrissmith.house.gov/zipauth.html
+HTTP Error 404: Not Found http://clarke.house.gov/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://clyburn.house.gov/contact.cfm
+HTTP Error 404: Not Found http://collinpeterson.house.gov//email.html
+HTTP Error 404: Not Found http://courtney.house.gov/email/
+HTTP Error 404: Not Found http://delauro.house.gov/contact_form_email.cfm
+HTTP Error 404: Not Found http://dent.house.gov/verifyemail.shtml
+HTTP Error 404: Not Found http://dutch.house.gov/writedutch_za.shtml
+HTTP Error 404: Not Found http://forbes.house.gov/zipauth.html
+HTTP Error 404: Not Found http://fortenberry.house.gov/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://garamendi.house.gov/contact/email-me.shtml
+HTTP Error 404: Not Found http://georgemiller.house.gov/contactus/2007/08/post_1.html
+HTTP Error 404: Not Found http://gohmert.house.gov/contact_louie.htm
+HTTP Error 404: Not Found http://halrogers.house.gov/Contact.aspx
+HTTP Error 404: Not Found http://hankjohnson.house.gov/contact_hank_write.shtml
+HTTP Error 404: Not Found http://harper.house.gov/contact/
+HTTP Error 404: Not Found http://hastings.house.gov/ContactForm.aspx
+HTTP Error 404: Not Found http://higgins.house.gov/email.asp
+HTTP Error 404: Not Found http://hoyer.house.gov/contact/email.asp
+HTTP Error 404: Not Found http://issa.house.gov/index.cfm?FuseAction=Contact.ContactForm
+HTTP Error 404: Not Found http://jeffmiller.house.gov/index.cfm?FuseAction=Contact.Home
+HTTP Error 404: Not Found http://joebarton.house.gov/ContactJoe.aspx?Type=Email
+HTTP Error 404: Not Found http://jones.house.gov/contact_form_email.cfm
+HTTP Error 404: Not Found http://jordan.house.gov/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://kevinmccarthy.house.gov/showpage.asp?ID=69
+HTTP Error 404: Not Found http://lacyclay.house.gov/contact.htm
+HTTP Error 404: Not Found http://langevin.house.gov/comments.shtml
+HTTP Error 404: Not Found http://latta.house.gov/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://lofgren.house.gov/emailform.shtml
+HTTP Error 404: Not Found http://marchant.house.gov/emailkenny.shtml
+HTTP Error 404: Not Found http://mchenry.house.gov/zipauth.htm
+HTTP Error 404: Not Found http://mckeon.house.gov/contact.shtml
+HTTP Error 404: Not Found http://mcnerney.house.gov/contact.shtml
+HTTP Error 404: Not Found http://mikethompson.house.gov/contact/email.shtml
+HTTP Error 404: Not Found http://moran.house.gov/zipauth.shtml
+HTTP Error 404: Not Found http://murphy.house.gov/Contact/zipauth.htm
+HTTP Error 404: Not Found http://owens.house.gov/contact/email-me.shtml
+HTTP Error 404: Not Found http://perlmutter.house.gov/IMA/issue_subscribe.htm
+HTTP Error 404: Not Found http://peteking.house.gov/zip.shtml
+HTTP Error 404: Not Found http://poe.house.gov/email/
+HTTP Error 404: Not Found http://price.house.gov/contact/contact_form.shtml
+HTTP Error 404: Not Found http://reichert.house.gov/Contact/ZipAuth.htm
+HTTP Error 404: Not Found http://rohrabacher.house.gov/Contact/Zip.htm
+HTTP Error 404: Not Found http://schiff.house.gov/HoR/CA29/Contact+Information/Contact+Form.htm
+HTTP Error 404: Not Found http://schwartz.house.gov/issue_subscribe.shtml
+HTTP Error 404: Not Found http://sensenbrenner.house.gov/email_zip.htm
+HTTP Error 404: Not Found http://serrano.house.gov/Forms/Contact.aspx
+HTTP Error 404: Not Found http://speier.house.gov/IMA/issue_subscribe.htm
+HTTP Error 404: Not Found http://tom.house.gov/html/contact_form_email.cfm
+HTTP Error 404: Not Found http://vanhollen.house.gov/HoR/MD08/Contact+Information/Web+Contact/Contact+Form.htm
+HTTP Error 404: Not Found http://walz.house.gov/zip_auth.shtm
+HTTP Error 404: Not Found http://wassermanschultz.house.gov/zipauth.htm
+HTTP Error 404: Not Found http://waxman.house.gov/Contact/
+HTTP Error 404: Not Found http://whitfield.house.gov/contact/index.shtml
+HTTP Error 404: Not Found http://www.alceehastings.house.gov/index.php?option=com_content&task=view&id=104&Itemid=
+HTTP Error 404: Not Found http://www.baldwin.senate.gov/contact.cfm
+HTTP Error 404: Not Found http://www.cole.house.gov/contact-tom.html
+HTTP Error 404: Not Found http://www.cooper.house.gov/index.php?option=com_content&task=view&id=117&Itemid=61
+HTTP Error 404: Not Found http://www.culberson.house.gov/contactinfo.aspx
+HTTP Error 404: Not Found http://www.fischer.senate.gov/public/index.cfm/email-me
+HTTP Error 404: Not Found http://www.hirono.senate.gov/contact.cfm
+HTTP Error 404: Not Found http://www.holt.house.gov/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/alexander/content/webform/zipauth.htm
+HTTP Error 404: Not Found http://www.house.gov/andrews/contact_form_za.shtml
+HTTP Error 404: Not Found http://www.house.gov/blunt
+HTTP Error 404: Not Found http://www.house.gov/boozman
+HTTP Error 404: Not Found http://www.house.gov/bordallo/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/brady/contact_page.html
+HTTP Error 404: Not Found http://www.house.gov/burr
+HTTP Error 404: Not Found http://www.house.gov/capps/contact/send_an_email.shtml
+HTTP Error 404: Not Found http://www.house.gov/cardin
+HTTP Error 404: Not Found http://www.house.gov/cleaver/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/corrinebrown/IMA/issue.shtml
+HTTP Error 404: Not Found http://www.house.gov/doggett/doggett_ima/doggett_get_address.shtml
+HTTP Error 404: Not Found http://www.house.gov/doyle/email_mike.shtml
+HTTP Error 404: Not Found http://www.house.gov/duncan/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://www.house.gov/flake
+HTTP Error 404: Not Found http://www.house.gov/formadriansmith/issues_subscribe.htm
+HTTP Error 404: Not Found http://www.house.gov/formbaldwin/IMA/get_address.htm
+HTTP Error 404: Not Found http://www.house.gov/formchrismurphy/ic_zip_auth.htm
+HTTP Error 404: Not Found http://www.house.gov/formdefazio/contact.html
+HTTP Error 404: Not Found http://www.house.gov/formdegette/zip_auth.htm
+HTTP Error 404: Not Found http://www.house.gov/formgarrett/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/formisrael/contact.html
+HTTP Error 404: Not Found http://www.house.gov/formjohnlewis/contact.html
+HTTP Error 404: Not Found http://www.house.gov/formrobertbrady/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/formwilson/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/formwolf/contact_email/emailzip.shtml
+HTTP Error 404: Not Found http://www.house.gov/green/contact
+HTTP Error 404: Not Found http://www.house.gov/hensarling/contact_web.shtml
+HTTP Error 404: Not Found http://www.house.gov/kirk
+HTTP Error 404: Not Found http://www.house.gov/larsen/contact/
+HTTP Error 404: Not Found http://www.house.gov/levin/levin_contact_email.shtml
+HTTP Error 404: Not Found http://www.house.gov/lobiondo/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/lucas/zipauth.htm
+HTTP Error 404: Not Found http://www.house.gov/markudall
+HTTP Error 404: Not Found http://www.house.gov/mcdermott/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/mcintyre/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/meeks/contactform_zipcheck.shtml
+HTTP Error 404: Not Found http://www.house.gov/mike-rogers/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/nadler/emailform.shtml
+HTTP Error 404: Not Found http://www.house.gov/neal/write_neal.html
+HTTP Error 404: Not Found http://www.house.gov/pallone/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/pelosi/contact/contact.html
+HTTP Error 404: Not Found http://www.house.gov/pitts/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/portman
+HTTP Error 404: Not Found http://www.house.gov/ralphhall/IMA/zipauth.htm
+HTTP Error 404: Not Found http://www.house.gov/rush/zipauth.shtml
+HTTP Error 404: Not Found http://www.house.gov/schakowsky/contact.shtml
+HTTP Error 404: Not Found http://www.house.gov/sessionsform/emailform.htm
+HTTP Error 404: Not Found http://www.house.gov/sherrodbrown
+HTTP Error 404: Not Found http://www.house.gov/shimkus/emailme.shtml
+HTTP Error 404: Not Found http://www.house.gov/shuster/zipauth.htm
+HTTP Error 404: Not Found http://www.house.gov/simpson/emailme.shtml
+HTTP Error 404: Not Found http://www.house.gov/steveking/email.shtm
+HTTP Error 404: Not Found http://www.house.gov/tierney/IMA/email.shtml
+HTTP Error 404: Not Found http://www.house.gov/toomey
+HTTP Error 404: Not Found http://www.house.gov/velazquez/IMA/issue_subscribe.htm
+HTTP Error 404: Not Found http://www.house.gov/waters/IMA/issue.htm
+HTTP Error 404: Not Found http://www.house.gov/wicker
+HTTP Error 404: Not Found http://www.jacksonlee.house.gov/contact-form.shtml
+HTTP Error 404: Not Found http://www.kaptur.house.gov/index.php?option=com_content&task=view&id=152
+HTTP Error 404: Not Found http://www.louise.house.gov/index.php?option=com_content&task=view&id=506&Itemid=150
+HTTP Error 404: Not Found http://www.mccollum.house.gov/index.asp?Type=NONE&SEC={AC61FD79-AD5F-440D-A7F0-555B12349E5B}
+HTTP Error 404: Not Found http://www.mcmorris.house.gov/IMA/issue_subscribe.htm
+HTTP Error 404: Not Found http://www.mikerogers.house.gov/Contact.aspx
+HTTP Error 404: Not Found http://www.napolitano.house.gov/contact/feedback.htm
+HTTP Error 404: Not Found http://www.norton.house.gov/forms/contact.html
+HTTP Error 404: Not Found http://www.nunes.house.gov/index.cfm?FuseAction=ContactUs.ContactForm
+HTTP Error 404: Not Found http://www.scalise.house.gov/contactform_zipcheck.shtml
+HTTP Error 404: Not Found mailto:Senator_Chiesa@Chiesa.Senate.gov
+HTTP Error 404: Not found https://forms.house.gov/barrow/webforms/issue_subscribe.htm
+HTTP Error 404: Not found https://forms.house.gov/braley/webforms/issue_subscribe.html
+HTTP Error 404: Not found https://forms.house.gov/cassidy/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/chaffetz/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/chu/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/coffman/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/crowley/contact.shtml
+HTTP Error 404: Not found https://forms.house.gov/fleming/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/franks/email_zipcheck.shtml
+HTTP Error 404: Not found https://forms.house.gov/fudge/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/guthrie/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/heinrich/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/himes/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/hunter/zipauthen_contact.shtml
+HTTP Error 404: Not found https://forms.house.gov/luetkemeyer/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/lummis/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/lynnjenkins/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/matheson/contact.shtml
+HTTP Error 404: Not found https://forms.house.gov/mcclintock/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/michaud/webforms/issue_subscribe.htm
+HTTP Error 404: Not found https://forms.house.gov/paulsen/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/petri/zip_authen.shtml
+HTTP Error 404: Not found https://forms.house.gov/pierluisi/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/pingree/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/rangel/forms/contact.shtml
+HTTP Error 404: Not found https://forms.house.gov/roe/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/rooney/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/sablan/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/schrader/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/sires/webforms/issue_subscribe.htm
+HTTP Error 404: Not found https://forms.house.gov/thompson/contact-form.shtml
+HTTP Error 404: Not found https://forms.house.gov/tonko/contact-form.shtml
